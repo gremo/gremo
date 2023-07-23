@@ -21,4 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1187](https://github.com/sonata-project/SonataBlockBundle/pull/1187#issuecomment-1646571249) in [sonata-project/SonataBlockBundle](https://github.com/sonata-project/SonataBlockBundle)
+2. 💪 Opened PR [#1704](https://github.com/sonata-project/SonataPageBundle/pull/1704) in [sonata-project/SonataPageBundle](https://github.com/sonata-project/SonataPageBundle)
+3. 💪 Opened PR [#1188](https://github.com/sonata-project/SonataBlockBundle/pull/1188) in [sonata-project/SonataBlockBundle](https://github.com/sonata-project/SonataBlockBundle)
+4. 🗣 Commented on [#1187](https://github.com/sonata-project/SonataBlockBundle/pull/1187#issuecomment-1645801541) in [sonata-project/SonataBlockBundle](https://github.com/sonata-project/SonataBlockBundle)
+5. 💪 Opened PR [#1187](https://github.com/sonata-project/SonataBlockBundle/pull/1187) in [sonata-project/SonataBlockBundle](https://github.com/sonata-project/SonataBlockBundle)
 <!--END_SECTION:activity-->
