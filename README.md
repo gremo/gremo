@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/gremo/symfony-sail/pull/1#issuecomment-1647685831) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
-2. 💪 Opened PR [#939](https://github.com/sonata-project/SonataClassificationBundle/pull/939) in [sonata-project/SonataClassificationBundle](https://github.com/sonata-project/SonataClassificationBundle)
-3. ❗ Opened issue [#2408](https://github.com/sonata-project/SonataMediaBundle/issues/2408) in [sonata-project/SonataMediaBundle](https://github.com/sonata-project/SonataMediaBundle)
-4. 🗣 Commented on [#1187](https://github.com/sonata-project/SonataBlockBundle/pull/1187#issuecomment-1646571249) in [sonata-project/SonataBlockBundle](https://github.com/sonata-project/SonataBlockBundle)
-5. 💪 Opened PR [#1704](https://github.com/sonata-project/SonataPageBundle/pull/1704) in [sonata-project/SonataPageBundle](https://github.com/sonata-project/SonataPageBundle)
+1. 🗣 Commented on [#1](https://github.com/gremo/symfony-sail/pull/1#issuecomment-1647728417) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+2. 🎉 Merged PR [#1](https://github.com/gremo/symfony-sail/pull/1) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+3. 🗣 Commented on [#2408](https://github.com/sonata-project/SonataMediaBundle/issues/2408#issuecomment-1647721931) in [sonata-project/SonataMediaBundle](https://github.com/sonata-project/SonataMediaBundle)
+4. 💪 Opened PR [#1532](https://github.com/symfony/recipes-contrib/pull/1532) in [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib)
+5. 🗣 Commented on [#1](https://github.com/gremo/symfony-sail/pull/1#issuecomment-1647696333) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
 <!--END_SECTION:activity-->
