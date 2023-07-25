@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#705](https://github.com/gremo/nest-winston/issues/705#issuecomment-1650326727) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-2. 🎉 Merged PR [#343](https://github.com/gremo/react-directus/pull/343) in [gremo/react-directus](https://github.com/gremo/react-directus)
-3. 🗣 Commented on [#342](https://github.com/gremo/react-directus/pull/342#issuecomment-1650200362) in [gremo/react-directus](https://github.com/gremo/react-directus)
-4. 🎉 Merged PR [#342](https://github.com/gremo/react-directus/pull/342) in [gremo/react-directus](https://github.com/gremo/react-directus)
-5. 🗣 Commented on [#342](https://github.com/gremo/react-directus/pull/342#issuecomment-1649617184) in [gremo/react-directus](https://github.com/gremo/react-directus)
+1. 🎉 Merged PR [#700](https://github.com/gremo/nest-winston/pull/700) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. 🎉 Merged PR [#706](https://github.com/gremo/nest-winston/pull/706) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🎉 Merged PR [#697](https://github.com/gremo/nest-winston/pull/697) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. 🎉 Merged PR [#704](https://github.com/gremo/nest-winston/pull/704) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+5. 🔒 Closed issue [#676](https://github.com/gremo/nest-winston/issues/676) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
