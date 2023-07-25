@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/gremo/react-directus/pull/342#issuecomment-1649617184) in [gremo/react-directus](https://github.com/gremo/react-directus)
-2. ❗ Opened issue [#1708](https://github.com/sonata-project/SonataPageBundle/issues/1708) in [sonata-project/SonataPageBundle](https://github.com/sonata-project/SonataPageBundle)
-3. 🗣 Commented on [#1](https://github.com/gremo/symfony-sail/pull/1#issuecomment-1647728417) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
-4. 🎉 Merged PR [#1](https://github.com/gremo/symfony-sail/pull/1) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
-5. 🗣 Commented on [#2408](https://github.com/sonata-project/SonataMediaBundle/issues/2408#issuecomment-1647721931) in [sonata-project/SonataMediaBundle](https://github.com/sonata-project/SonataMediaBundle)
+1. 🎉 Merged PR [#343](https://github.com/gremo/react-directus/pull/343) in [gremo/react-directus](https://github.com/gremo/react-directus)
+2. 🗣 Commented on [#342](https://github.com/gremo/react-directus/pull/342#issuecomment-1650200362) in [gremo/react-directus](https://github.com/gremo/react-directus)
+3. 🎉 Merged PR [#342](https://github.com/gremo/react-directus/pull/342) in [gremo/react-directus](https://github.com/gremo/react-directus)
+4. 🗣 Commented on [#342](https://github.com/gremo/react-directus/pull/342#issuecomment-1649617184) in [gremo/react-directus](https://github.com/gremo/react-directus)
+5. ❗ Opened issue [#1708](https://github.com/sonata-project/SonataPageBundle/issues/1708) in [sonata-project/SonataPageBundle](https://github.com/sonata-project/SonataPageBundle)
 <!--END_SECTION:activity-->
