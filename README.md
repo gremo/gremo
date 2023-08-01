@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/gremo/react-directus/pull/365#issuecomment-1658506259) in [gremo/react-directus](https://github.com/gremo/react-directus)
-2. 🎉 Merged PR [#365](https://github.com/gremo/react-directus/pull/365) in [gremo/react-directus](https://github.com/gremo/react-directus)
-3. 🎉 Merged PR [#364](https://github.com/gremo/react-directus/pull/364) in [gremo/react-directus](https://github.com/gremo/react-directus)
-4. 🗣 Commented on [#364](https://github.com/gremo/react-directus/pull/364#issuecomment-1657849235) in [gremo/react-directus](https://github.com/gremo/react-directus)
-5. 🗣 Commented on [#592](https://github.com/gremo/nest-winston/pull/592#issuecomment-1657259501) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. ❌ Closed PR [#369](https://github.com/gremo/react-directus/pull/369) in [gremo/react-directus](https://github.com/gremo/react-directus)
+2. 🗣 Commented on [#369](https://github.com/gremo/react-directus/pull/369#issuecomment-1659928660) in [gremo/react-directus](https://github.com/gremo/react-directus)
+3. 🗣 Commented on [#367](https://github.com/gremo/react-directus/pull/367#issuecomment-1659922395) in [gremo/react-directus](https://github.com/gremo/react-directus)
+4. 🎉 Merged PR [#367](https://github.com/gremo/react-directus/pull/367) in [gremo/react-directus](https://github.com/gremo/react-directus)
+5. 🗣 Commented on [#365](https://github.com/gremo/react-directus/pull/365#issuecomment-1658506259) in [gremo/react-directus](https://github.com/gremo/react-directus)
 <!--END_SECTION:activity-->
