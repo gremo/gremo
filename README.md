@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/gremo/react-directus/pull/379#issuecomment-1665380718) in [gremo/react-directus](https://github.com/gremo/react-directus)
-2. ❗ Opened issue [#104](https://github.com/simonhaenisch/prettier-plugin-organize-imports/issues/104) in [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports)
-3. 🎉 Merged PR [#374](https://github.com/gremo/react-directus/pull/374) in [gremo/react-directus](https://github.com/gremo/react-directus)
-4. 🎉 Merged PR [#373](https://github.com/gremo/react-directus/pull/373) in [gremo/react-directus](https://github.com/gremo/react-directus)
-5. 🗣 Commented on [#375](https://github.com/gremo/react-directus/pull/375#issuecomment-1663619418) in [gremo/react-directus](https://github.com/gremo/react-directus)
+1. ❗ Opened issue [#380](https://github.com/gremo/react-directus/issues/380) in [gremo/react-directus](https://github.com/gremo/react-directus)
+2. 🗣 Commented on [#379](https://github.com/gremo/react-directus/pull/379#issuecomment-1665380718) in [gremo/react-directus](https://github.com/gremo/react-directus)
+3. ❗ Opened issue [#104](https://github.com/simonhaenisch/prettier-plugin-organize-imports/issues/104) in [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports)
+4. 🎉 Merged PR [#374](https://github.com/gremo/react-directus/pull/374) in [gremo/react-directus](https://github.com/gremo/react-directus)
+5. 🎉 Merged PR [#373](https://github.com/gremo/react-directus/pull/373) in [gremo/react-directus](https://github.com/gremo/react-directus)
 <!--END_SECTION:activity-->
