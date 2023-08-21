@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54144](https://github.com/microsoft/TypeScript/issues/54144#issuecomment-1679709636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. 🎉 Merged PR [#376](https://github.com/gremo/react-directus/pull/376) in [gremo/react-directus](https://github.com/gremo/react-directus)
-3. 🎉 Merged PR [#385](https://github.com/gremo/react-directus/pull/385) in [gremo/react-directus](https://github.com/gremo/react-directus)
-4. 🎉 Merged PR [#387](https://github.com/gremo/react-directus/pull/387) in [gremo/react-directus](https://github.com/gremo/react-directus)
-5. 🗣 Commented on [#383](https://github.com/gremo/react-directus/pull/383#issuecomment-1666548627) in [gremo/react-directus](https://github.com/gremo/react-directus)
+1. ❗ Opened issue [#8870](https://github.com/microsoft/vscode-remote-release/issues/8870) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+2. 🗣 Commented on [#54144](https://github.com/microsoft/TypeScript/issues/54144#issuecomment-1679709636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. 🎉 Merged PR [#376](https://github.com/gremo/react-directus/pull/376) in [gremo/react-directus](https://github.com/gremo/react-directus)
+4. 🎉 Merged PR [#385](https://github.com/gremo/react-directus/pull/385) in [gremo/react-directus](https://github.com/gremo/react-directus)
+5. 🎉 Merged PR [#387](https://github.com/gremo/react-directus/pull/387) in [gremo/react-directus](https://github.com/gremo/react-directus)
 <!--END_SECTION:activity-->
