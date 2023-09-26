@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/rafatosta/zapzap/issues/183#issuecomment-1736222975) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
-2. 🗣 Commented on [#183](https://github.com/rafatosta/zapzap/issues/183#issuecomment-1736072143) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
-3. 🔒 Closed issue [#183](https://github.com/rafatosta/zapzap/issues/183) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
-4. ❗ Opened issue [#183](https://github.com/rafatosta/zapzap/issues/183) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
-5. ❗ Opened issue [#167](https://github.com/docker/desktop-linux/issues/167) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+1. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1736291893) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+2. 🗣 Commented on [#183](https://github.com/rafatosta/zapzap/issues/183#issuecomment-1736222975) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+3. 🗣 Commented on [#183](https://github.com/rafatosta/zapzap/issues/183#issuecomment-1736072143) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+4. 🔒 Closed issue [#183](https://github.com/rafatosta/zapzap/issues/183) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+5. ❗ Opened issue [#183](https://github.com/rafatosta/zapzap/issues/183) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
 <!--END_SECTION:activity-->
