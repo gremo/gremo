@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#167](https://github.com/docker/desktop-linux/issues/167) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
-2. 🗣 Commented on [#148](https://github.com/Runroom/runroom-packages/pull/148#issuecomment-1716215498) in [Runroom/runroom-packages](https://github.com/Runroom/runroom-packages)
-3. 🗣 Commented on [#1648](https://github.com/nodesource/distributions/issues/1648#issuecomment-1705624208) in [nodesource/distributions](https://github.com/nodesource/distributions)
-4. 🎉 Merged PR [#413](https://github.com/gremo/react-directus/pull/413) in [gremo/react-directus](https://github.com/gremo/react-directus)
-5. ❗ Opened issue [#1648](https://github.com/nodesource/distributions/issues/1648) in [nodesource/distributions](https://github.com/nodesource/distributions)
+1. 🗣 Commented on [#183](https://github.com/rafatosta/zapzap/issues/183#issuecomment-1736072143) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+2. 🔒 Closed issue [#183](https://github.com/rafatosta/zapzap/issues/183) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+3. ❗ Opened issue [#183](https://github.com/rafatosta/zapzap/issues/183) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+4. ❗ Opened issue [#167](https://github.com/docker/desktop-linux/issues/167) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+5. 🗣 Commented on [#148](https://github.com/Runroom/runroom-packages/pull/148#issuecomment-1716215498) in [Runroom/runroom-packages](https://github.com/Runroom/runroom-packages)
 <!--END_SECTION:activity-->
