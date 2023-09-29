@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/gremo/fedora-kickstart/issues/1) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
-2. ❗ Opened issue [#1](https://github.com/gremo/fedora-kickstart/issues/1) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
-3. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1736990008) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
-4. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1736291893) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
-5. 🗣 Commented on [#183](https://github.com/rafatosta/zapzap/issues/183#issuecomment-1736222975) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+1. 🗣 Commented on [#187](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/187#issuecomment-1740635665) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+2. 🔒 Closed issue [#1](https://github.com/gremo/fedora-kickstart/issues/1) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
+3. ❗ Opened issue [#1](https://github.com/gremo/fedora-kickstart/issues/1) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
+4. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1736990008) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+5. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1736291893) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
 <!--END_SECTION:activity-->
