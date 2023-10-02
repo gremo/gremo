@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/sonnyp/Playhouse/issues/12) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
-2. 🗣 Commented on [#12](https://github.com/sonnyp/Playhouse/issues/12#issuecomment-1741258829) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
-3. 🗣 Commented on [#12](https://github.com/sonnyp/Playhouse/issues/12#issuecomment-1740815662) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
-4. ❗ Opened issue [#12](https://github.com/sonnyp/Playhouse/issues/12) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
-5. 🗣 Commented on [#187](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/187#issuecomment-1740635665) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+1. ❗ Opened issue [#59](https://github.com/remindersdevs/Reminders/issues/59) in [remindersdevs/Reminders](https://github.com/remindersdevs/Reminders)
+2. 🔒 Closed issue [#12](https://github.com/sonnyp/Playhouse/issues/12) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
+3. 🗣 Commented on [#12](https://github.com/sonnyp/Playhouse/issues/12#issuecomment-1741258829) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
+4. 🗣 Commented on [#12](https://github.com/sonnyp/Playhouse/issues/12#issuecomment-1740815662) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
+5. ❗ Opened issue [#12](https://github.com/sonnyp/Playhouse/issues/12) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
 <!--END_SECTION:activity-->
