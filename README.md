@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#59](https://github.com/remindersdevs/Reminders/issues/59) in [remindersdevs/Reminders](https://github.com/remindersdevs/Reminders)
-2. 🔒 Closed issue [#12](https://github.com/sonnyp/Playhouse/issues/12) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
-3. 🗣 Commented on [#12](https://github.com/sonnyp/Playhouse/issues/12#issuecomment-1741258829) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
-4. 🗣 Commented on [#12](https://github.com/sonnyp/Playhouse/issues/12#issuecomment-1740815662) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
-5. ❗ Opened issue [#12](https://github.com/sonnyp/Playhouse/issues/12) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
+1. 🗣 Commented on [#4](https://github.com/mrvladus/Errands/issues/4#issuecomment-1743816937) in [mrvladus/Errands](https://github.com/mrvladus/Errands)
+2. ❗ Opened issue [#36](https://github.com/aleiepure/devtoolbox/issues/36) in [aleiepure/devtoolbox](https://github.com/aleiepure/devtoolbox)
+3. ❗ Opened issue [#59](https://github.com/remindersdevs/Reminders/issues/59) in [remindersdevs/Reminders](https://github.com/remindersdevs/Reminders)
+4. 🔒 Closed issue [#12](https://github.com/sonnyp/Playhouse/issues/12) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
+5. 🗣 Commented on [#12](https://github.com/sonnyp/Playhouse/issues/12#issuecomment-1741258829) in [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse)
 <!--END_SECTION:activity-->
