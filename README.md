@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#468](https://github.com/gremo/nest-winston/pull/468#issuecomment-1744928448) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-2. 🗣 Commented on [#468](https://github.com/gremo/nest-winston/pull/468#issuecomment-1744902372) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-3. 🗣 Commented on [#4](https://github.com/mrvladus/Errands/issues/4#issuecomment-1743816937) in [mrvladus/Errands](https://github.com/mrvladus/Errands)
-4. ❗ Opened issue [#36](https://github.com/aleiepure/devtoolbox/issues/36) in [aleiepure/devtoolbox](https://github.com/aleiepure/devtoolbox)
-5. ❗ Opened issue [#59](https://github.com/remindersdevs/Reminders/issues/59) in [remindersdevs/Reminders](https://github.com/remindersdevs/Reminders)
+1. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1746619826) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+2. 🗣 Commented on [#468](https://github.com/gremo/nest-winston/pull/468#issuecomment-1744928448) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🗣 Commented on [#468](https://github.com/gremo/nest-winston/pull/468#issuecomment-1744902372) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. 🗣 Commented on [#4](https://github.com/mrvladus/Errands/issues/4#issuecomment-1743816937) in [mrvladus/Errands](https://github.com/mrvladus/Errands)
+5. ❗ Opened issue [#36](https://github.com/aleiepure/devtoolbox/issues/36) in [aleiepure/devtoolbox](https://github.com/aleiepure/devtoolbox)
 <!--END_SECTION:activity-->
