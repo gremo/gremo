@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38674](https://github.com/moby/moby/issues/38674#issuecomment-1749420315) in [moby/moby](https://github.com/moby/moby)
-2. 🗣 Commented on [#167](https://github.com/docker/desktop-linux/issues/167#issuecomment-1749328119) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
-3. 🗣 Commented on [#148](https://github.com/Runroom/runroom-packages/pull/148#issuecomment-1748934995) in [Runroom/runroom-packages](https://github.com/Runroom/runroom-packages)
-4. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1746619826) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
-5. 🗣 Commented on [#468](https://github.com/gremo/nest-winston/pull/468#issuecomment-1744928448) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. ❗ Opened issue [#154](https://github.com/hwittenborn/celeste/issues/154) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
+2. 🗣 Commented on [#38674](https://github.com/moby/moby/issues/38674#issuecomment-1749420315) in [moby/moby](https://github.com/moby/moby)
+3. 🗣 Commented on [#167](https://github.com/docker/desktop-linux/issues/167#issuecomment-1749328119) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+4. 🗣 Commented on [#148](https://github.com/Runroom/runroom-packages/pull/148#issuecomment-1748934995) in [Runroom/runroom-packages](https://github.com/Runroom/runroom-packages)
+5. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1746619826) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
 <!--END_SECTION:activity-->
