@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1176](https://github.com/symfony/ux/issues/1176) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1176](https://github.com/symfony/ux/issues/1176#issuecomment-1757462906) in [symfony/ux](https://github.com/symfony/ux)
-3. ❗ Opened issue [#1176](https://github.com/symfony/ux/issues/1176) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#154](https://github.com/hwittenborn/celeste/issues/154#issuecomment-1752144265) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
-5. ❗ Opened issue [#154](https://github.com/hwittenborn/celeste/issues/154) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
+1. ❗ Opened issue [#1177](https://github.com/symfony/ux/issues/1177) in [symfony/ux](https://github.com/symfony/ux)
+2. 🔒 Closed issue [#1176](https://github.com/symfony/ux/issues/1176) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#1176](https://github.com/symfony/ux/issues/1176#issuecomment-1757462906) in [symfony/ux](https://github.com/symfony/ux)
+4. ❗ Opened issue [#1176](https://github.com/symfony/ux/issues/1176) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#154](https://github.com/hwittenborn/celeste/issues/154#issuecomment-1752144265) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
 <!--END_SECTION:activity-->
