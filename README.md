@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/hwittenborn/celeste/issues/154#issuecomment-1752144265) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
-2. ❗ Opened issue [#154](https://github.com/hwittenborn/celeste/issues/154) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
-3. 🗣 Commented on [#38674](https://github.com/moby/moby/issues/38674#issuecomment-1749420315) in [moby/moby](https://github.com/moby/moby)
-4. 🗣 Commented on [#167](https://github.com/docker/desktop-linux/issues/167#issuecomment-1749328119) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
-5. 🗣 Commented on [#148](https://github.com/Runroom/runroom-packages/pull/148#issuecomment-1748934995) in [Runroom/runroom-packages](https://github.com/Runroom/runroom-packages)
+1. ❗ Opened issue [#1176](https://github.com/symfony/ux/issues/1176) in [symfony/ux](https://github.com/symfony/ux)
+2. 🗣 Commented on [#154](https://github.com/hwittenborn/celeste/issues/154#issuecomment-1752144265) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
+3. ❗ Opened issue [#154](https://github.com/hwittenborn/celeste/issues/154) in [hwittenborn/celeste](https://github.com/hwittenborn/celeste)
+4. 🗣 Commented on [#38674](https://github.com/moby/moby/issues/38674#issuecomment-1749420315) in [moby/moby](https://github.com/moby/moby)
+5. 🗣 Commented on [#167](https://github.com/docker/desktop-linux/issues/167#issuecomment-1749328119) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
 <!--END_SECTION:activity-->
