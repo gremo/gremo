@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#434](https://github.com/gremo/react-directus/issues/434#issuecomment-1774176137) in [gremo/react-directus](https://github.com/gremo/react-directus)
-2. 🗣 Commented on [#1177](https://github.com/symfony/ux/issues/1177#issuecomment-1759056648) in [symfony/ux](https://github.com/symfony/ux)
-3. ❗ Opened issue [#1177](https://github.com/symfony/ux/issues/1177) in [symfony/ux](https://github.com/symfony/ux)
-4. 🔒 Closed issue [#1176](https://github.com/symfony/ux/issues/1176) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#1176](https://github.com/symfony/ux/issues/1176#issuecomment-1757462906) in [symfony/ux](https://github.com/symfony/ux)
+1. 🔒 Closed issue [#2](https://github.com/gremo/symfony-sail/issues/2) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+2. 🗣 Commented on [#2](https://github.com/gremo/symfony-sail/issues/2#issuecomment-1775019046) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+3. 🗣 Commented on [#434](https://github.com/gremo/react-directus/issues/434#issuecomment-1774176137) in [gremo/react-directus](https://github.com/gremo/react-directus)
+4. 🗣 Commented on [#1177](https://github.com/symfony/ux/issues/1177#issuecomment-1759056648) in [symfony/ux](https://github.com/symfony/ux)
+5. ❗ Opened issue [#1177](https://github.com/symfony/ux/issues/1177) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
