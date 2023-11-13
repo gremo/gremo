@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#714](https://github.com/antares-sql/antares/issues/714#issuecomment-1807979934) in [antares-sql/antares](https://github.com/antares-sql/antares)
-2. 🗣 Commented on [#55](https://github.com/flathub/com.visualstudio.code/issues/55#issuecomment-1807269887) in [flathub/com.visualstudio.code](https://github.com/flathub/com.visualstudio.code)
-3. ❗ Opened issue [#714](https://github.com/antares-sql/antares/issues/714) in [antares-sql/antares](https://github.com/antares-sql/antares)
-4. ❗ Opened issue [#42](https://github.com/requarks/changelog-action/issues/42) in [requarks/changelog-action](https://github.com/requarks/changelog-action)
-5. 🚀 Published release [Prova](https://github.com/gremo/alpinejs-toolkit/releases/tag/v.13.0) in [gremo/alpinejs-toolkit](https://github.com/gremo/alpinejs-toolkit)
+1. ❗ Opened issue [#715](https://github.com/antares-sql/antares/issues/715) in [antares-sql/antares](https://github.com/antares-sql/antares)
+2. 🗣 Commented on [#714](https://github.com/antares-sql/antares/issues/714#issuecomment-1807979934) in [antares-sql/antares](https://github.com/antares-sql/antares)
+3. 🗣 Commented on [#55](https://github.com/flathub/com.visualstudio.code/issues/55#issuecomment-1807269887) in [flathub/com.visualstudio.code](https://github.com/flathub/com.visualstudio.code)
+4. ❗ Opened issue [#714](https://github.com/antares-sql/antares/issues/714) in [antares-sql/antares](https://github.com/antares-sql/antares)
+5. ❗ Opened issue [#42](https://github.com/requarks/changelog-action/issues/42) in [requarks/changelog-action](https://github.com/requarks/changelog-action)
 <!--END_SECTION:activity-->
