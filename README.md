@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#715](https://github.com/antares-sql/antares/issues/715#issuecomment-1812129356) in [antares-sql/antares](https://github.com/antares-sql/antares)
-2. ❗ Opened issue [#715](https://github.com/antares-sql/antares/issues/715) in [antares-sql/antares](https://github.com/antares-sql/antares)
-3. 🗣 Commented on [#714](https://github.com/antares-sql/antares/issues/714#issuecomment-1807979934) in [antares-sql/antares](https://github.com/antares-sql/antares)
-4. 🗣 Commented on [#55](https://github.com/flathub/com.visualstudio.code/issues/55#issuecomment-1807269887) in [flathub/com.visualstudio.code](https://github.com/flathub/com.visualstudio.code)
-5. ❗ Opened issue [#714](https://github.com/antares-sql/antares/issues/714) in [antares-sql/antares](https://github.com/antares-sql/antares)
+1. 💪 Opened PR [#550](https://github.com/devcontainers-contrib/features/pull/550) in [devcontainers-contrib/features](https://github.com/devcontainers-contrib/features)
+2. 🗣 Commented on [#715](https://github.com/antares-sql/antares/issues/715#issuecomment-1812129356) in [antares-sql/antares](https://github.com/antares-sql/antares)
+3. ❗ Opened issue [#715](https://github.com/antares-sql/antares/issues/715) in [antares-sql/antares](https://github.com/antares-sql/antares)
+4. 🗣 Commented on [#714](https://github.com/antares-sql/antares/issues/714#issuecomment-1807979934) in [antares-sql/antares](https://github.com/antares-sql/antares)
+5. 🗣 Commented on [#55](https://github.com/flathub/com.visualstudio.code/issues/55#issuecomment-1807269887) in [flathub/com.visualstudio.code](https://github.com/flathub/com.visualstudio.code)
 <!--END_SECTION:activity-->
