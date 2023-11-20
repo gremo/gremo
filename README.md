@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545#issuecomment-1819057115) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
-2. 🗣 Commented on [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545#issuecomment-1818986963) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
-3. ❗ Opened issue [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
-4. 🗣 Commented on [#64](https://github.com/icedman/search-light/issues/64#issuecomment-1817478330) in [icedman/search-light](https://github.com/icedman/search-light)
-5. 💪 Opened PR [#550](https://github.com/devcontainers-contrib/features/pull/550) in [devcontainers-contrib/features](https://github.com/devcontainers-contrib/features)
+1. 🗣 Commented on [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545#issuecomment-1819319511) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+2. 🗣 Commented on [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545#issuecomment-1819298027) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+3. 🗣 Commented on [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545#issuecomment-1819057115) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+4. 🗣 Commented on [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545#issuecomment-1818986963) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+5. ❗ Opened issue [#545](https://github.com/lucaslorentz/caddy-docker-proxy/issues/545) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
 <!--END_SECTION:activity-->
