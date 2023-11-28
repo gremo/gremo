@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4098](https://github.com/louislam/uptime-kuma/issues/4098#issuecomment-1826032765) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 🔒 Closed issue [#4098](https://github.com/louislam/uptime-kuma/issues/4098) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🗣 Commented on [#4098](https://github.com/louislam/uptime-kuma/issues/4098#issuecomment-1825958377) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. ❗ Opened issue [#4098](https://github.com/louislam/uptime-kuma/issues/4098) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-5. 🎉 Merged PR [#774](https://github.com/gremo/nest-winston/pull/774) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. ❗ Opened issue [#152](https://github.com/docusealco/docuseal/issues/152) in [docusealco/docuseal](https://github.com/docusealco/docuseal)
+2. 🗣 Commented on [#4098](https://github.com/louislam/uptime-kuma/issues/4098#issuecomment-1826032765) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 🔒 Closed issue [#4098](https://github.com/louislam/uptime-kuma/issues/4098) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🗣 Commented on [#4098](https://github.com/louislam/uptime-kuma/issues/4098#issuecomment-1825958377) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+5. ❗ Opened issue [#4098](https://github.com/louislam/uptime-kuma/issues/4098) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
