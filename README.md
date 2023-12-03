@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/tspvivek/refine-directus/pull/12) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
-2. ❗ Opened issue [#11](https://github.com/tspvivek/refine-directus/issues/11) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
-3. ❗ Opened issue [#10](https://github.com/tspvivek/refine-directus/issues/10) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
-4. 💪 Opened PR [#9](https://github.com/tspvivek/refine-directus/pull/9) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
-5. 🗣 Commented on [#715](https://github.com/antares-sql/antares/issues/715#issuecomment-1837117855) in [antares-sql/antares](https://github.com/antares-sql/antares)
+1. 🗣 Commented on [#152](https://github.com/docusealco/docuseal/issues/152#issuecomment-1837592815) in [docusealco/docuseal](https://github.com/docusealco/docuseal)
+2. 💪 Opened PR [#12](https://github.com/tspvivek/refine-directus/pull/12) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
+3. ❗ Opened issue [#11](https://github.com/tspvivek/refine-directus/issues/11) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
+4. ❗ Opened issue [#10](https://github.com/tspvivek/refine-directus/issues/10) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
+5. 💪 Opened PR [#9](https://github.com/tspvivek/refine-directus/pull/9) in [tspvivek/refine-directus](https://github.com/tspvivek/refine-directus)
 <!--END_SECTION:activity-->
