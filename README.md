@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1839258268) in [directus/directus](https://github.com/directus/directus)
-2. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1839033318) in [directus/directus](https://github.com/directus/directus)
-3. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1838895743) in [directus/directus](https://github.com/directus/directus)
-4. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1838820751) in [directus/directus](https://github.com/directus/directus)
-5. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1838742974) in [directus/directus](https://github.com/directus/directus)
+1. ❗ Opened issue [#20650](https://github.com/directus/directus/issues/20650) in [directus/directus](https://github.com/directus/directus)
+2. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1839258268) in [directus/directus](https://github.com/directus/directus)
+3. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1839033318) in [directus/directus](https://github.com/directus/directus)
+4. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1838895743) in [directus/directus](https://github.com/directus/directus)
+5. 🗣 Commented on [#20628](https://github.com/directus/directus/issues/20628#issuecomment-1838820751) in [directus/directus](https://github.com/directus/directus)
 <!--END_SECTION:activity-->
