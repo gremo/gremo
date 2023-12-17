@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858765469) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
-2. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858553922) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
-3. 🗣 Commented on [#20743](https://github.com/directus/directus/issues/20743#issuecomment-1856449200) in [directus/directus](https://github.com/directus/directus)
-4. ❗ Opened issue [#20745](https://github.com/directus/directus/issues/20745) in [directus/directus](https://github.com/directus/directus)
-5. ❗ Opened issue [#20743](https://github.com/directus/directus/issues/20743) in [directus/directus](https://github.com/directus/directus)
+1. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1859158422) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
+2. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858765469) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
+3. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858553922) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
+4. 🗣 Commented on [#20743](https://github.com/directus/directus/issues/20743#issuecomment-1856449200) in [directus/directus](https://github.com/directus/directus)
+5. ❗ Opened issue [#20745](https://github.com/directus/directus/issues/20745) in [directus/directus](https://github.com/directus/directus)
 <!--END_SECTION:activity-->
