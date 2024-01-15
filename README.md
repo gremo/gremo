@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1859158422) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
-2. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858765469) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
-3. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858553922) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
-4. 🗣 Commented on [#20743](https://github.com/directus/directus/issues/20743#issuecomment-1856449200) in [directus/directus](https://github.com/directus/directus)
-5. ❗ Opened issue [#20745](https://github.com/directus/directus/issues/20745) in [directus/directus](https://github.com/directus/directus)
+1. 🗣 Commented on [#792](https://github.com/gremo/nest-winston/pull/792#issuecomment-1891563041) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. 🎉 Merged PR [#792](https://github.com/gremo/nest-winston/pull/792) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1859158422) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
+4. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858765469) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
+5. 🗣 Commented on [#2](https://github.com/gremo/fedora-kickstart/pull/2#issuecomment-1858553922) in [gremo/fedora-kickstart](https://github.com/gremo/fedora-kickstart)
 <!--END_SECTION:activity-->
