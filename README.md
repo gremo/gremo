@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1457](https://github.com/symfony/ux/issues/1457) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1601](https://github.com/nodesource/distributions/issues/1601#issuecomment-1906858968) in [nodesource/distributions](https://github.com/nodesource/distributions)
-3. 🗣 Commented on [#1770](https://github.com/nodesource/distributions/issues/1770#issuecomment-1906558044) in [nodesource/distributions](https://github.com/nodesource/distributions)
-4. 🗣 Commented on [#1601](https://github.com/nodesource/distributions/issues/1601#issuecomment-1906540904) in [nodesource/distributions](https://github.com/nodesource/distributions)
-5. ❗ Opened issue [#1770](https://github.com/nodesource/distributions/issues/1770) in [nodesource/distributions](https://github.com/nodesource/distributions)
+1. ❗ Opened issue [#1482](https://github.com/symfony/ux/issues/1482) in [symfony/ux](https://github.com/symfony/ux)
+2. ❗ Opened issue [#1457](https://github.com/symfony/ux/issues/1457) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#1601](https://github.com/nodesource/distributions/issues/1601#issuecomment-1906858968) in [nodesource/distributions](https://github.com/nodesource/distributions)
+4. 🗣 Commented on [#1770](https://github.com/nodesource/distributions/issues/1770#issuecomment-1906558044) in [nodesource/distributions](https://github.com/nodesource/distributions)
+5. 🗣 Commented on [#1601](https://github.com/nodesource/distributions/issues/1601#issuecomment-1906540904) in [nodesource/distributions](https://github.com/nodesource/distributions)
 <!--END_SECTION:activity-->
