@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1483](https://github.com/symfony/ux/issues/1483#issuecomment-1937005465) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#10556](https://github.com/phpstan/phpstan/issues/10556#issuecomment-1936245257) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
-3. ❗ Opened issue [#10556](https://github.com/phpstan/phpstan/issues/10556) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
-4. ❗ Opened issue [#1483](https://github.com/symfony/ux/issues/1483) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#1482](https://github.com/symfony/ux/issues/1482#issuecomment-1935654548) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#1493](https://github.com/symfony/ux/issues/1493) in [symfony/ux](https://github.com/symfony/ux)
+2. 🗣 Commented on [#405](https://github.com/symfony/monolog-bundle/issues/405#issuecomment-1941290329) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
+3. 🗣 Commented on [#1483](https://github.com/symfony/ux/issues/1483#issuecomment-1937005465) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#10556](https://github.com/phpstan/phpstan/issues/10556#issuecomment-1936245257) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
+5. ❗ Opened issue [#10556](https://github.com/phpstan/phpstan/issues/10556) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
 <!--END_SECTION:activity-->
