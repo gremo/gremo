@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1529](https://github.com/symfony/ux/issues/1529) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#320](https://github.com/mebjas/html5-qrcode/issues/320#issuecomment-1953131739) in [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode)
-3. 🗣 Commented on [#1504](https://github.com/symfony/ux/issues/1504#issuecomment-1947296720) in [symfony/ux](https://github.com/symfony/ux)
-4. ❗ Opened issue [#1504](https://github.com/symfony/ux/issues/1504) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#1493](https://github.com/symfony/ux/issues/1493#issuecomment-1946814644) in [symfony/ux](https://github.com/symfony/ux)
+1. 🗣 Commented on [#1529](https://github.com/symfony/ux/issues/1529#issuecomment-1956725377) in [symfony/ux](https://github.com/symfony/ux)
+2. ❗ Opened issue [#1529](https://github.com/symfony/ux/issues/1529) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#320](https://github.com/mebjas/html5-qrcode/issues/320#issuecomment-1953131739) in [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode)
+4. 🗣 Commented on [#1504](https://github.com/symfony/ux/issues/1504#issuecomment-1947296720) in [symfony/ux](https://github.com/symfony/ux)
+5. ❗ Opened issue [#1504](https://github.com/symfony/ux/issues/1504) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
