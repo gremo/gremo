@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1612](https://github.com/symfony/ux/issues/1612) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1611](https://github.com/symfony/ux/issues/1611#issuecomment-1991141982) in [symfony/ux](https://github.com/symfony/ux)
-3. ❗ Opened issue [#1611](https://github.com/symfony/ux/issues/1611) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#1590](https://github.com/symfony/ux/issues/1590#issuecomment-1986271106) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#1504](https://github.com/symfony/ux/issues/1504#issuecomment-1985353275) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#1614](https://github.com/symfony/ux/issues/1614) in [symfony/ux](https://github.com/symfony/ux)
+2. ❗ Opened issue [#1612](https://github.com/symfony/ux/issues/1612) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#1611](https://github.com/symfony/ux/issues/1611#issuecomment-1991141982) in [symfony/ux](https://github.com/symfony/ux)
+4. ❗ Opened issue [#1611](https://github.com/symfony/ux/issues/1611) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#1590](https://github.com/symfony/ux/issues/1590#issuecomment-1986271106) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
