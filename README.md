@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2001947309) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1619](https://github.com/symfony/ux/issues/1619#issuecomment-1995707315) in [symfony/ux](https://github.com/symfony/ux)
-3. 🔒 Closed issue [#1619](https://github.com/symfony/ux/issues/1619) in [symfony/ux](https://github.com/symfony/ux)
-4. ❗ Opened issue [#1619](https://github.com/symfony/ux/issues/1619) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#1612](https://github.com/symfony/ux/issues/1612#issuecomment-1995557419) in [symfony/ux](https://github.com/symfony/ux)
+1. 🗣 Commented on [#3](https://github.com/gremo/symfony-sail/issues/3#issuecomment-2001950593) in [gremo/symfony-sail](https://github.com/gremo/symfony-sail)
+2. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2001947309) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#1619](https://github.com/symfony/ux/issues/1619#issuecomment-1995707315) in [symfony/ux](https://github.com/symfony/ux)
+4. 🔒 Closed issue [#1619](https://github.com/symfony/ux/issues/1619) in [symfony/ux](https://github.com/symfony/ux)
+5. ❗ Opened issue [#1619](https://github.com/symfony/ux/issues/1619) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
