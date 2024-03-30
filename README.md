@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1667](https://github.com/symfony/ux/issues/1667#issuecomment-2027257076) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1667](https://github.com/symfony/ux/issues/1667#issuecomment-2027239121) in [symfony/ux](https://github.com/symfony/ux)
-3. ❗ Opened issue [#1667](https://github.com/symfony/ux/issues/1667) in [symfony/ux](https://github.com/symfony/ux)
-4. ❗ Opened issue [#424](https://github.com/craue/CraueFormFlowBundle/issues/424) in [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle)
-5. 🗣 Commented on [#412](https://github.com/craue/CraueFormFlowBundle/issues/412#issuecomment-2022565518) in [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle)
+1. 🗣 Commented on [#126](https://github.com/databacker/mysql-backup/issues/126#issuecomment-2028227506) in [databacker/mysql-backup](https://github.com/databacker/mysql-backup)
+2. 🗣 Commented on [#1667](https://github.com/symfony/ux/issues/1667#issuecomment-2028200365) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#1667](https://github.com/symfony/ux/issues/1667#issuecomment-2027257076) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#1667](https://github.com/symfony/ux/issues/1667#issuecomment-2027239121) in [symfony/ux](https://github.com/symfony/ux)
+5. ❗ Opened issue [#1667](https://github.com/symfony/ux/issues/1667) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
