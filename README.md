@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2965](https://github.com/saadeghi/daisyui/issues/2965#issuecomment-2045171500) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
-2. ❗ Opened issue [#2965](https://github.com/saadeghi/daisyui/issues/2965) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
-3. ❗ Opened issue [#63](https://github.com/usernamehw/vscode-commands/issues/63) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
-4. ❗ Opened issue [#16](https://github.com/zackad/prettier-plugin-twig-melody/issues/16) in [zackad/prettier-plugin-twig-melody](https://github.com/zackad/prettier-plugin-twig-melody)
-5. 🗣 Commented on [#946](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/946#issuecomment-2044327497) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+1. 🗣 Commented on [#1701](https://github.com/symfony/ux/issues/1701#issuecomment-2046132218) in [symfony/ux](https://github.com/symfony/ux)
+2. 🗣 Commented on [#2965](https://github.com/saadeghi/daisyui/issues/2965#issuecomment-2045171500) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+3. ❗ Opened issue [#2965](https://github.com/saadeghi/daisyui/issues/2965) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+4. ❗ Opened issue [#63](https://github.com/usernamehw/vscode-commands/issues/63) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
+5. ❗ Opened issue [#16](https://github.com/zackad/prettier-plugin-twig-melody/issues/16) in [zackad/prettier-plugin-twig-melody](https://github.com/zackad/prettier-plugin-twig-melody)
 <!--END_SECTION:activity-->
