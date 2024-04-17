@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#476](https://github.com/symfony/monolog-bundle/issues/476#issuecomment-2060961790) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
-2. ❗ Opened issue [#1738](https://github.com/symfony/ux/issues/1738) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#1701](https://github.com/symfony/ux/issues/1701#issuecomment-2046132218) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#2965](https://github.com/saadeghi/daisyui/issues/2965#issuecomment-2045171500) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
-5. ❗ Opened issue [#2965](https://github.com/saadeghi/daisyui/issues/2965) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+1. 🗣 Commented on [#476](https://github.com/symfony/monolog-bundle/issues/476#issuecomment-2061054552) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
+2. 🗣 Commented on [#476](https://github.com/symfony/monolog-bundle/issues/476#issuecomment-2060961790) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
+3. ❗ Opened issue [#1738](https://github.com/symfony/ux/issues/1738) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#1701](https://github.com/symfony/ux/issues/1701#issuecomment-2046132218) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#2965](https://github.com/saadeghi/daisyui/issues/2965#issuecomment-2045171500) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
 <!--END_SECTION:activity-->
