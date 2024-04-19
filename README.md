@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1150](https://github.com/symfony/ux/issues/1150#issuecomment-2063902231) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1150](https://github.com/symfony/ux/issues/1150#issuecomment-2063688542) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#476](https://github.com/symfony/monolog-bundle/issues/476#issuecomment-2061511481) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
-4. 🔒 Closed issue [#476](https://github.com/symfony/monolog-bundle/issues/476) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
-5. ❗ Opened issue [#54641](https://github.com/symfony/symfony/issues/54641) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#1150](https://github.com/symfony/ux/issues/1150#issuecomment-2065916717) in [symfony/ux](https://github.com/symfony/ux)
+2. 🗣 Commented on [#1150](https://github.com/symfony/ux/issues/1150#issuecomment-2063902231) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#1150](https://github.com/symfony/ux/issues/1150#issuecomment-2063688542) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#476](https://github.com/symfony/monolog-bundle/issues/476#issuecomment-2061511481) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
+5. 🔒 Closed issue [#476](https://github.com/symfony/monolog-bundle/issues/476) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
 <!--END_SECTION:activity-->
