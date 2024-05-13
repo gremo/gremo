@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#816](https://github.com/gremo/nest-winston/pull/816#issuecomment-2107846526) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-2. 🎉 Merged PR [#816](https://github.com/gremo/nest-winston/pull/816) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-3. 🗣 Commented on [#646](https://github.com/antares-sql/antares/issues/646#issuecomment-2099302941) in [antares-sql/antares](https://github.com/antares-sql/antares)
-4. 🗣 Commented on [#54641](https://github.com/symfony/symfony/issues/54641#issuecomment-2097805471) in [symfony/symfony](https://github.com/symfony/symfony)
-5. 🔒 Closed issue [#54641](https://github.com/symfony/symfony/issues/54641) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#818](https://github.com/gremo/nest-winston/issues/818#issuecomment-2108521596) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. 🔒 Closed issue [#818](https://github.com/gremo/nest-winston/issues/818) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🗣 Commented on [#818](https://github.com/gremo/nest-winston/issues/818#issuecomment-2108498871) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. 🗣 Commented on [#816](https://github.com/gremo/nest-winston/pull/816#issuecomment-2107846526) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+5. 🎉 Merged PR [#816](https://github.com/gremo/nest-winston/pull/816) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
