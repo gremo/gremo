@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#646](https://github.com/antares-sql/antares/issues/646#issuecomment-2099302941) in [antares-sql/antares](https://github.com/antares-sql/antares)
-2. 🗣 Commented on [#54641](https://github.com/symfony/symfony/issues/54641#issuecomment-2097805471) in [symfony/symfony](https://github.com/symfony/symfony)
-3. 🔒 Closed issue [#54641](https://github.com/symfony/symfony/issues/54641) in [symfony/symfony](https://github.com/symfony/symfony)
-4. 🗣 Commented on [#1150](https://github.com/symfony/ux/issues/1150#issuecomment-2065980001) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#1150](https://github.com/symfony/ux/issues/1150#issuecomment-2065916717) in [symfony/ux](https://github.com/symfony/ux)
+1. 🗣 Commented on [#816](https://github.com/gremo/nest-winston/pull/816#issuecomment-2107846526) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. 🎉 Merged PR [#816](https://github.com/gremo/nest-winston/pull/816) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🗣 Commented on [#646](https://github.com/antares-sql/antares/issues/646#issuecomment-2099302941) in [antares-sql/antares](https://github.com/antares-sql/antares)
+4. 🗣 Commented on [#54641](https://github.com/symfony/symfony/issues/54641#issuecomment-2097805471) in [symfony/symfony](https://github.com/symfony/symfony)
+5. 🔒 Closed issue [#54641](https://github.com/symfony/symfony/issues/54641) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
