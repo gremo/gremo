@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5759](https://github.com/EasyCorp/EasyAdminBundle/pull/5759#issuecomment-2180988184) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-2. 🗣 Commented on [#819](https://github.com/gremo/nest-winston/pull/819#issuecomment-2122748841) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-3. 🎉 Merged PR [#819](https://github.com/gremo/nest-winston/pull/819) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-4. 🗣 Commented on [#819](https://github.com/gremo/nest-winston/pull/819#issuecomment-2121926866) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-5. 🗣 Commented on [#818](https://github.com/gremo/nest-winston/issues/818#issuecomment-2108521596) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. 💪 Opened PR [#6339](https://github.com/EasyCorp/EasyAdminBundle/pull/6339) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+2. 🗣 Commented on [#5759](https://github.com/EasyCorp/EasyAdminBundle/pull/5759#issuecomment-2180988184) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+3. 🗣 Commented on [#819](https://github.com/gremo/nest-winston/pull/819#issuecomment-2122748841) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. 🎉 Merged PR [#819](https://github.com/gremo/nest-winston/pull/819) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+5. 🗣 Commented on [#819](https://github.com/gremo/nest-winston/pull/819#issuecomment-2121926866) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
