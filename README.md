@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57532](https://github.com/symfony/symfony/issues/57532) in [symfony/symfony](https://github.com/symfony/symfony)
-2. ❗ Opened issue [#6340](https://github.com/EasyCorp/EasyAdminBundle/issues/6340) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-3. 💪 Opened PR [#6339](https://github.com/EasyCorp/EasyAdminBundle/pull/6339) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-4. 🗣 Commented on [#5759](https://github.com/EasyCorp/EasyAdminBundle/pull/5759#issuecomment-2180988184) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. 🗣 Commented on [#819](https://github.com/gremo/nest-winston/pull/819#issuecomment-2122748841) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. 🗣 Commented on [#57532](https://github.com/symfony/symfony/issues/57532#issuecomment-2191118353) in [symfony/symfony](https://github.com/symfony/symfony)
+2. ❗ Opened issue [#57532](https://github.com/symfony/symfony/issues/57532) in [symfony/symfony](https://github.com/symfony/symfony)
+3. ❗ Opened issue [#6340](https://github.com/EasyCorp/EasyAdminBundle/issues/6340) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+4. 💪 Opened PR [#6339](https://github.com/EasyCorp/EasyAdminBundle/pull/6339) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+5. 🗣 Commented on [#5759](https://github.com/EasyCorp/EasyAdminBundle/pull/5759#issuecomment-2180988184) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
