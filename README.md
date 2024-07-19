@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#831](https://github.com/gremo/nest-winston/pull/831) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-2. 🎉 Merged PR [#826](https://github.com/gremo/nest-winston/pull/826) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-3. 🗣 Commented on [#826](https://github.com/gremo/nest-winston/pull/826#issuecomment-2223821036) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-4. ❗ Opened issue [#6340](https://github.com/EasyCorp/EasyAdminBundle/issues/6340) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. 💪 Opened PR [#6339](https://github.com/EasyCorp/EasyAdminBundle/pull/6339) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+1. 🎉 Merged PR [#833](https://github.com/gremo/nest-winston/pull/833) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. 🗣 Commented on [#833](https://github.com/gremo/nest-winston/pull/833#issuecomment-2238589728) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🎉 Merged PR [#831](https://github.com/gremo/nest-winston/pull/831) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. 🎉 Merged PR [#826](https://github.com/gremo/nest-winston/pull/826) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+5. 🗣 Commented on [#826](https://github.com/gremo/nest-winston/pull/826#issuecomment-2223821036) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
