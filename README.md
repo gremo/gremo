@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#58155](https://github.com/symfony/symfony/issues/58155) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 🗣 Commented on [#1860](https://github.com/symfony/ux/issues/1860#issuecomment-2323504985) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#1774](https://github.com/symfony/ux/pull/1774#issuecomment-2323450148) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#1860](https://github.com/symfony/ux/issues/1860#issuecomment-2323449287) in [symfony/ux](https://github.com/symfony/ux)
-5. 🎉 Merged PR [#833](https://github.com/gremo/nest-winston/pull/833) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. 🗣 Commented on [#1543](https://github.com/symfony/ux/issues/1543#issuecomment-2336467983) in [symfony/ux](https://github.com/symfony/ux)
+2. 🔒 Closed issue [#1543](https://github.com/symfony/ux/issues/1543) in [symfony/ux](https://github.com/symfony/ux)
+3. ❗ Opened issue [#58155](https://github.com/symfony/symfony/issues/58155) in [symfony/symfony](https://github.com/symfony/symfony)
+4. 🗣 Commented on [#1860](https://github.com/symfony/ux/issues/1860#issuecomment-2323504985) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#1774](https://github.com/symfony/ux/pull/1774#issuecomment-2323450148) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
