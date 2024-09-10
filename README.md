@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#667](https://github.com/dunglas/symfony-docker/issues/667#issuecomment-2339996949) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
-2. 🗣 Commented on [#539](https://github.com/dunglas/symfony-docker/issues/539#issuecomment-2339983936) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
-3. 🗣 Commented on [#667](https://github.com/dunglas/symfony-docker/issues/667#issuecomment-2339924972) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
-4. 🗣 Commented on [#667](https://github.com/dunglas/symfony-docker/issues/667#issuecomment-2339903691) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
-5. ❗ Opened issue [#667](https://github.com/dunglas/symfony-docker/issues/667) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+1. 🗣 Commented on [#539](https://github.com/dunglas/symfony-docker/issues/539#issuecomment-2340640157) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+2. 🗣 Commented on [#667](https://github.com/dunglas/symfony-docker/issues/667#issuecomment-2339996949) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+3. 🗣 Commented on [#539](https://github.com/dunglas/symfony-docker/issues/539#issuecomment-2339983936) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+4. 🗣 Commented on [#667](https://github.com/dunglas/symfony-docker/issues/667#issuecomment-2339924972) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+5. 🗣 Commented on [#667](https://github.com/dunglas/symfony-docker/issues/667#issuecomment-2339903691) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
 <!--END_SECTION:activity-->
