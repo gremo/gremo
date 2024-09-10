@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#539](https://github.com/dunglas/symfony-docker/issues/539#issuecomment-2339720867) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
-2. 🔒 Closed issue [#1504](https://github.com/symfony/ux/issues/1504) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2337736959) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#1543](https://github.com/symfony/ux/issues/1543#issuecomment-2336467983) in [symfony/ux](https://github.com/symfony/ux)
-5. 🔒 Closed issue [#1543](https://github.com/symfony/ux/issues/1543) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#667](https://github.com/dunglas/symfony-docker/issues/667) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+2. 🗣 Commented on [#539](https://github.com/dunglas/symfony-docker/issues/539#issuecomment-2339720867) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+3. 🔒 Closed issue [#1504](https://github.com/symfony/ux/issues/1504) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2337736959) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#1543](https://github.com/symfony/ux/issues/1543#issuecomment-2336467983) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
