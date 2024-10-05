@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/SymfonyCasts/dynamic-forms/issues/35) in [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)
-2. 🔒 Closed issue [#1177](https://github.com/symfony/ux/issues/1177) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2379435662) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#539](https://github.com/dunglas/symfony-docker/issues/539#issuecomment-2355477266) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
-5. 🗣 Commented on [#2147](https://github.com/symfony/ux/issues/2147#issuecomment-2351802035) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#2240](https://github.com/symfony/ux/issues/2240) in [symfony/ux](https://github.com/symfony/ux)
+2. ❗ Opened issue [#35](https://github.com/SymfonyCasts/dynamic-forms/issues/35) in [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)
+3. 🔒 Closed issue [#1177](https://github.com/symfony/ux/issues/1177) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2379435662) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#539](https://github.com/dunglas/symfony-docker/issues/539#issuecomment-2355477266) in [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
 <!--END_SECTION:activity-->
