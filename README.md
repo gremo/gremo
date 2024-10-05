@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395118624) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395116999) in [symfony/ux](https://github.com/symfony/ux)
-3. ❗ Opened issue [#2240](https://github.com/symfony/ux/issues/2240) in [symfony/ux](https://github.com/symfony/ux)
-4. ❗ Opened issue [#35](https://github.com/SymfonyCasts/dynamic-forms/issues/35) in [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)
-5. 🔒 Closed issue [#1177](https://github.com/symfony/ux/issues/1177) in [symfony/ux](https://github.com/symfony/ux)
+1. 🗣 Commented on [#35](https://github.com/SymfonyCasts/dynamic-forms/issues/35#issuecomment-2395127887) in [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)
+2. 🔒 Closed issue [#35](https://github.com/SymfonyCasts/dynamic-forms/issues/35) in [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)
+3. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395127469) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395118624) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395116999) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
