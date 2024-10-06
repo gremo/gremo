@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395397620) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1](https://github.com/gremo/github-issue-2240/issues/1#issuecomment-2395221460) in [gremo/github-issue-2240](https://github.com/gremo/github-issue-2240)
-3. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395218755) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#35](https://github.com/SymfonyCasts/dynamic-forms/issues/35#issuecomment-2395127887) in [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)
-5. 🔒 Closed issue [#35](https://github.com/SymfonyCasts/dynamic-forms/issues/35) in [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)
+1. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395416014) in [symfony/ux](https://github.com/symfony/ux)
+2. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2395412435) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395397620) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#1](https://github.com/gremo/github-issue-2240/issues/1#issuecomment-2395221460) in [gremo/github-issue-2240](https://github.com/gremo/github-issue-2240)
+5. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395218755) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
