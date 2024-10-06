@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395416014) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2395412435) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395397620) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#1](https://github.com/gremo/github-issue-2240/issues/1#issuecomment-2395221460) in [gremo/github-issue-2240](https://github.com/gremo/github-issue-2240)
-5. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395218755) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#695](https://github.com/nunomaduro/phpinsights/issues/695) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+2. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395416014) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2395412435) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2395397620) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#1](https://github.com/gremo/github-issue-2240/issues/1#issuecomment-2395221460) in [gremo/github-issue-2240](https://github.com/gremo/github-issue-2240)
 <!--END_SECTION:activity-->
