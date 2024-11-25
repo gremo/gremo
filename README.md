@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/ricardoquecria/caule-themes-pack-1/issues/32#issuecomment-2470048015) in [ricardoquecria/caule-themes-pack-1](https://github.com/ricardoquecria/caule-themes-pack-1)
-2. 🗣 Commented on [#2312](https://github.com/symfony/ux/issues/2312#issuecomment-2450893312) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#2312](https://github.com/symfony/ux/issues/2312#issuecomment-2450616433) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#2312](https://github.com/symfony/ux/issues/2312#issuecomment-2450491478) in [symfony/ux](https://github.com/symfony/ux)
-5. ❗ Opened issue [#2312](https://github.com/symfony/ux/issues/2312) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#727](https://github.com/DEVSENSE/phptools-docs/issues/727) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+2. 🗣 Commented on [#32](https://github.com/ricardoquecria/caule-themes-pack-1/issues/32#issuecomment-2470048015) in [ricardoquecria/caule-themes-pack-1](https://github.com/ricardoquecria/caule-themes-pack-1)
+3. 🗣 Commented on [#2312](https://github.com/symfony/ux/issues/2312#issuecomment-2450893312) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#2312](https://github.com/symfony/ux/issues/2312#issuecomment-2450616433) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#2312](https://github.com/symfony/ux/issues/2312#issuecomment-2450491478) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
