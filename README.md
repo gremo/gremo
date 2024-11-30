@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#727](https://github.com/DEVSENSE/phptools-docs/issues/727#issuecomment-2504021493) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-2. 🗣 Commented on [#727](https://github.com/DEVSENSE/phptools-docs/issues/727#issuecomment-2503589660) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-3. 🗣 Commented on [#728](https://github.com/DEVSENSE/phptools-docs/issues/728#issuecomment-2501046818) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-4. ❗ Opened issue [#728](https://github.com/DEVSENSE/phptools-docs/issues/728) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-5. ❗ Opened issue [#727](https://github.com/DEVSENSE/phptools-docs/issues/727) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+1. 🗣 Commented on [#728](https://github.com/DEVSENSE/phptools-docs/issues/728#issuecomment-2509020618) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+2. 🗣 Commented on [#727](https://github.com/DEVSENSE/phptools-docs/issues/727#issuecomment-2504021493) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+3. 🗣 Commented on [#727](https://github.com/DEVSENSE/phptools-docs/issues/727#issuecomment-2503589660) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+4. 🗣 Commented on [#728](https://github.com/DEVSENSE/phptools-docs/issues/728#issuecomment-2501046818) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+5. ❗ Opened issue [#728](https://github.com/DEVSENSE/phptools-docs/issues/728) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 <!--END_SECTION:activity-->
