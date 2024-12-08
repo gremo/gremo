@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3236](https://github.com/espocrm/espocrm/pull/3236#issuecomment-2525241772) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
-2. 🗣 Commented on [#3236](https://github.com/espocrm/espocrm/pull/3236#issuecomment-2525231733) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
-3. 🗣 Commented on [#3236](https://github.com/espocrm/espocrm/pull/3236#issuecomment-2525225100) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
-4. 💪 Opened PR [#3236](https://github.com/espocrm/espocrm/pull/3236) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
-5. 🗣 Commented on [#8306](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues/8306#issuecomment-2510852277) in [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+1. ❌ Closed PR [#3236](https://github.com/espocrm/espocrm/pull/3236) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
+2. 🗣 Commented on [#3236](https://github.com/espocrm/espocrm/pull/3236#issuecomment-2525567155) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
+3. 🗣 Commented on [#3236](https://github.com/espocrm/espocrm/pull/3236#issuecomment-2525241772) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
+4. 🗣 Commented on [#3236](https://github.com/espocrm/espocrm/pull/3236#issuecomment-2525231733) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
+5. 🗣 Commented on [#3236](https://github.com/espocrm/espocrm/pull/3236#issuecomment-2525225100) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
 <!--END_SECTION:activity-->
