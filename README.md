@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2537045480) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-2. 🔒 Closed issue [#738](https://github.com/DEVSENSE/phptools-docs/issues/738) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-3. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2536977590) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-4. ❗ Opened issue [#738](https://github.com/DEVSENSE/phptools-docs/issues/738) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-5. ❌ Closed PR [#3236](https://github.com/espocrm/espocrm/pull/3236) in [espocrm/espocrm](https://github.com/espocrm/espocrm)
+1. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2537110213) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+2. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2537045480) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+3. 🔒 Closed issue [#738](https://github.com/DEVSENSE/phptools-docs/issues/738) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+4. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2536977590) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+5. ❗ Opened issue [#738](https://github.com/DEVSENSE/phptools-docs/issues/738) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 <!--END_SECTION:activity-->
