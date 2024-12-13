@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2537110213) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-2. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2537045480) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-3. 🔒 Closed issue [#738](https://github.com/DEVSENSE/phptools-docs/issues/738) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-4. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2536977590) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-5. ❗ Opened issue [#738](https://github.com/DEVSENSE/phptools-docs/issues/738) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+1. 🗣 Commented on [#2240](https://github.com/symfony/ux/issues/2240#issuecomment-2541032583) in [symfony/ux](https://github.com/symfony/ux)
+2. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2537110213) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+3. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2537045480) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+4. 🔒 Closed issue [#738](https://github.com/DEVSENSE/phptools-docs/issues/738) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+5. 🗣 Commented on [#738](https://github.com/DEVSENSE/phptools-docs/issues/738#issuecomment-2536977590) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 <!--END_SECTION:activity-->
