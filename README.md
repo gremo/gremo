@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2586485509) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-2. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2585259433) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-3. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2585239241) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-4. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2583176962) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-5. ❗ Opened issue [#521](https://github.com/offen/docker-volume-backup/issues/521) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
+1. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2586857945) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
+2. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2586485509) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
+3. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2585259433) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
+4. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2585239241) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
+5. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2583176962) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
 <!--END_SECTION:activity-->
