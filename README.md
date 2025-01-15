@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#859](https://github.com/gremo/nest-winston/pull/859) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-2. 🗣 Commented on [#1492](https://github.com/lukevella/rallly/issues/1492#issuecomment-2590732422) in [lukevella/rallly](https://github.com/lukevella/rallly)
-3. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2589425697) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-4. 🔒 Closed issue [#521](https://github.com/offen/docker-volume-backup/issues/521) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-5. 🗣 Commented on [#859](https://github.com/gremo/nest-winston/pull/859#issuecomment-2588380710) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2591022142) in [symfony/ux](https://github.com/symfony/ux)
+2. 🎉 Merged PR [#864](https://github.com/gremo/nest-winston/pull/864) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🎉 Merged PR [#859](https://github.com/gremo/nest-winston/pull/859) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. 🗣 Commented on [#1492](https://github.com/lukevella/rallly/issues/1492#issuecomment-2590732422) in [lukevella/rallly](https://github.com/lukevella/rallly)
+5. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2589425697) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
 <!--END_SECTION:activity-->
