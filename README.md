@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2589425697) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-2. 🔒 Closed issue [#521](https://github.com/offen/docker-volume-backup/issues/521) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
-3. 🗣 Commented on [#859](https://github.com/gremo/nest-winston/pull/859#issuecomment-2588380710) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-4. ❗ Opened issue [#1492](https://github.com/lukevella/rallly/issues/1492) in [lukevella/rallly](https://github.com/lukevella/rallly)
-5. ❗ Opened issue [#1334](https://github.com/crazy-max/diun/issues/1334) in [crazy-max/diun](https://github.com/crazy-max/diun)
+1. 🎉 Merged PR [#859](https://github.com/gremo/nest-winston/pull/859) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. 🗣 Commented on [#1492](https://github.com/lukevella/rallly/issues/1492#issuecomment-2590732422) in [lukevella/rallly](https://github.com/lukevella/rallly)
+3. 🗣 Commented on [#521](https://github.com/offen/docker-volume-backup/issues/521#issuecomment-2589425697) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
+4. 🔒 Closed issue [#521](https://github.com/offen/docker-volume-backup/issues/521) in [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup)
+5. 🗣 Commented on [#859](https://github.com/gremo/nest-winston/pull/859#issuecomment-2588380710) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
