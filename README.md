@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1330](https://github.com/dunglas/frankenphp/issues/1330) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-2. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2591022142) in [symfony/ux](https://github.com/symfony/ux)
-3. 🎉 Merged PR [#864](https://github.com/gremo/nest-winston/pull/864) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-4. 🎉 Merged PR [#859](https://github.com/gremo/nest-winston/pull/859) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-5. 🗣 Commented on [#1492](https://github.com/lukevella/rallly/issues/1492#issuecomment-2590732422) in [lukevella/rallly](https://github.com/lukevella/rallly)
+1. 🗣 Commented on [#866](https://github.com/gremo/nest-winston/issues/866#issuecomment-2600280565) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. ❗ Opened issue [#1330](https://github.com/dunglas/frankenphp/issues/1330) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+3. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2591022142) in [symfony/ux](https://github.com/symfony/ux)
+4. 🎉 Merged PR [#864](https://github.com/gremo/nest-winston/pull/864) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+5. 🎉 Merged PR [#859](https://github.com/gremo/nest-winston/pull/859) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
