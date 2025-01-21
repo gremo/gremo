@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#868](https://github.com/gremo/nest-winston/pull/868) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-2. 🎉 Merged PR [#867](https://github.com/gremo/nest-winston/pull/867) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-3. ❗ Opened issue [#2515](https://github.com/symfony/ux/issues/2515) in [symfony/ux](https://github.com/symfony/ux)
-4. 🎉 Merged PR [#865](https://github.com/gremo/nest-winston/pull/865) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-5. 🗣 Commented on [#866](https://github.com/gremo/nest-winston/issues/866#issuecomment-2600280565) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. 🗣 Commented on [#866](https://github.com/gremo/nest-winston/issues/866#issuecomment-2604801442) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+2. 🔒 Closed issue [#866](https://github.com/gremo/nest-winston/issues/866) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. 🎉 Merged PR [#868](https://github.com/gremo/nest-winston/pull/868) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. 🎉 Merged PR [#867](https://github.com/gremo/nest-winston/pull/867) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+5. ❗ Opened issue [#2515](https://github.com/symfony/ux/issues/2515) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
