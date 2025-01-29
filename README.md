@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2532](https://github.com/symfony/ux/issues/2532) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#8399](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues/8399#issuecomment-2619112833) in [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
-3. 🗣 Commented on [#866](https://github.com/gremo/nest-winston/issues/866#issuecomment-2604801442) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-4. 🔒 Closed issue [#866](https://github.com/gremo/nest-winston/issues/866) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-5. 🎉 Merged PR [#868](https://github.com/gremo/nest-winston/pull/868) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. 🗣 Commented on [#2532](https://github.com/symfony/ux/issues/2532#issuecomment-2620955494) in [symfony/ux](https://github.com/symfony/ux)
+2. ❗ Opened issue [#2532](https://github.com/symfony/ux/issues/2532) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#8399](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues/8399#issuecomment-2619112833) in [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+4. 🗣 Commented on [#866](https://github.com/gremo/nest-winston/issues/866#issuecomment-2604801442) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+5. 🔒 Closed issue [#866](https://github.com/gremo/nest-winston/issues/866) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
