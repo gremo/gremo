@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2634437404) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#2532](https://github.com/symfony/ux/issues/2532#issuecomment-2628857187) in [symfony/ux](https://github.com/symfony/ux)
-3. 🗣 Commented on [#2532](https://github.com/symfony/ux/issues/2532#issuecomment-2620955494) in [symfony/ux](https://github.com/symfony/ux)
-4. ❗ Opened issue [#2532](https://github.com/symfony/ux/issues/2532) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#8399](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues/8399#issuecomment-2619112833) in [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+1. 🗣 Commented on [#2532](https://github.com/symfony/ux/issues/2532#issuecomment-2634721381) in [symfony/ux](https://github.com/symfony/ux)
+2. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2634437404) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#2532](https://github.com/symfony/ux/issues/2532#issuecomment-2628857187) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#2532](https://github.com/symfony/ux/issues/2532#issuecomment-2620955494) in [symfony/ux](https://github.com/symfony/ux)
+5. ❗ Opened issue [#2532](https://github.com/symfony/ux/issues/2532) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
