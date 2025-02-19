@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819#issuecomment-2661369421) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-2. 🔒 Closed issue [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-3. ❗ Opened issue [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-4. 🗣 Commented on [#5759](https://github.com/EasyCorp/EasyAdminBundle/pull/5759#issuecomment-2659690883) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. 🗣 Commented on [#2532](https://github.com/symfony/ux/issues/2532#issuecomment-2634929170) in [symfony/ux](https://github.com/symfony/ux)
+1. 🗣 Commented on [#59812](https://github.com/symfony/symfony/issues/59812#issuecomment-2669117798) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 🗣 Commented on [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819#issuecomment-2661369421) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+3. 🔒 Closed issue [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+4. ❗ Opened issue [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+5. 🗣 Commented on [#5759](https://github.com/EasyCorp/EasyAdminBundle/pull/5759#issuecomment-2659690883) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
