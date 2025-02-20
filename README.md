@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6826](https://github.com/EasyCorp/EasyAdminBundle/issues/6826#issuecomment-2671340412) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-2. 🗣 Commented on [#81](https://github.com/SymfonyCasts/tailwind-bundle/issues/81#issuecomment-2670810763) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
-3. 🗣 Commented on [#59812](https://github.com/symfony/symfony/issues/59812#issuecomment-2669117798) in [symfony/symfony](https://github.com/symfony/symfony)
-4. 🗣 Commented on [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819#issuecomment-2661369421) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. 🔒 Closed issue [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+1. 🗣 Commented on [#59812](https://github.com/symfony/symfony/issues/59812#issuecomment-2671361443) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 🗣 Commented on [#6826](https://github.com/EasyCorp/EasyAdminBundle/issues/6826#issuecomment-2671340412) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+3. 🗣 Commented on [#81](https://github.com/SymfonyCasts/tailwind-bundle/issues/81#issuecomment-2670810763) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
+4. 🗣 Commented on [#59812](https://github.com/symfony/symfony/issues/59812#issuecomment-2669117798) in [symfony/symfony](https://github.com/symfony/symfony)
+5. 🗣 Commented on [#6819](https://github.com/EasyCorp/EasyAdminBundle/issues/6819#issuecomment-2661369421) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
