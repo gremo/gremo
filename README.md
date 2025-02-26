@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2675781375) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2675690491) in [symfony/ux](https://github.com/symfony/ux)
-3. ❗ Opened issue [#2586](https://github.com/symfony/ux/issues/2586) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#6831](https://github.com/EasyCorp/EasyAdminBundle/pull/6831#issuecomment-2672548262) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. 🔒 Closed issue [#59812](https://github.com/symfony/symfony/issues/59812) in [symfony/symfony](https://github.com/symfony/symfony)
+1. ❗ Opened issue [#1370](https://github.com/hotwired/turbo/issues/1370) in [hotwired/turbo](https://github.com/hotwired/turbo)
+2. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2675781375) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2675690491) in [symfony/ux](https://github.com/symfony/ux)
+4. ❗ Opened issue [#2586](https://github.com/symfony/ux/issues/2586) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#6831](https://github.com/EasyCorp/EasyAdminBundle/pull/6831#issuecomment-2672548262) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
