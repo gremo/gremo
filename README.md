@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60015](https://github.com/symfony/symfony/issues/60015) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 🗣 Commented on [#81](https://github.com/SymfonyCasts/tailwind-bundle/issues/81#issuecomment-2697516526) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
-3. ❗ Opened issue [#1370](https://github.com/hotwired/turbo/issues/1370) in [hotwired/turbo](https://github.com/hotwired/turbo)
-4. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2675781375) in [symfony/ux](https://github.com/symfony/ux)
-5. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2675690491) in [symfony/ux](https://github.com/symfony/ux)
+1. 🗣 Commented on [#60015](https://github.com/symfony/symfony/issues/60015#issuecomment-2742634987) in [symfony/symfony](https://github.com/symfony/symfony)
+2. ❗ Opened issue [#60015](https://github.com/symfony/symfony/issues/60015) in [symfony/symfony](https://github.com/symfony/symfony)
+3. 🗣 Commented on [#81](https://github.com/SymfonyCasts/tailwind-bundle/issues/81#issuecomment-2697516526) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
+4. ❗ Opened issue [#1370](https://github.com/hotwired/turbo/issues/1370) in [hotwired/turbo](https://github.com/hotwired/turbo)
+5. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2675781375) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
