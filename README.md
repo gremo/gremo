@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#398](https://github.com/web-push-libs/web-push-php/issues/398#issuecomment-2762941713) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
-2. 🗣 Commented on [#31](https://github.com/Minishlink/web-push-bundle/issues/31#issuecomment-2761361401) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
-3. 🗣 Commented on [#60015](https://github.com/symfony/symfony/issues/60015#issuecomment-2742634987) in [symfony/symfony](https://github.com/symfony/symfony)
-4. ❗ Opened issue [#60015](https://github.com/symfony/symfony/issues/60015) in [symfony/symfony](https://github.com/symfony/symfony)
-5. 🗣 Commented on [#81](https://github.com/SymfonyCasts/tailwind-bundle/issues/81#issuecomment-2697516526) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
+1. ❗ Opened issue [#246486](https://github.com/microsoft/vscode/issues/246486) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#398](https://github.com/web-push-libs/web-push-php/issues/398#issuecomment-2762941713) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
+3. 🗣 Commented on [#31](https://github.com/Minishlink/web-push-bundle/issues/31#issuecomment-2761361401) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+4. 🗣 Commented on [#60015](https://github.com/symfony/symfony/issues/60015#issuecomment-2742634987) in [symfony/symfony](https://github.com/symfony/symfony)
+5. ❗ Opened issue [#60015](https://github.com/symfony/symfony/issues/60015) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
