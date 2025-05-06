@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/recca0120/vscode-phpunit/issues/296#issuecomment-2817130704) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
-2. ❗ Opened issue [#246486](https://github.com/microsoft/vscode/issues/246486) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#398](https://github.com/web-push-libs/web-push-php/issues/398#issuecomment-2762941713) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
-4. 🗣 Commented on [#31](https://github.com/Minishlink/web-push-bundle/issues/31#issuecomment-2761361401) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+1. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2855034282) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+2. ❗ Opened issue [#310](https://github.com/recca0120/vscode-phpunit/issues/310) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+3. 🗣 Commented on [#296](https://github.com/recca0120/vscode-phpunit/issues/296#issuecomment-2817130704) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+4. ❗ Opened issue [#246486](https://github.com/microsoft/vscode/issues/246486) in [microsoft/vscode](https://github.com/microsoft/vscode)
 5. ❗ Opened issue [#60015](https://github.com/symfony/symfony/issues/60015) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
