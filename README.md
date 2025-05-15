@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2857424806) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
-2. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2855034282) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
-3. ❗ Opened issue [#310](https://github.com/recca0120/vscode-phpunit/issues/310) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
-4. 🗣 Commented on [#296](https://github.com/recca0120/vscode-phpunit/issues/296#issuecomment-2817130704) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
-5. ❗ Opened issue [#246486](https://github.com/microsoft/vscode/issues/246486) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#618](https://github.com/plankanban/planka/issues/618#issuecomment-2883371456) in [plankanban/planka](https://github.com/plankanban/planka)
+2. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2857424806) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+3. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2855034282) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+4. ❗ Opened issue [#310](https://github.com/recca0120/vscode-phpunit/issues/310) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+5. 🗣 Commented on [#296](https://github.com/recca0120/vscode-phpunit/issues/296#issuecomment-2817130704) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
 <!--END_SECTION:activity-->
