@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#121](https://github.com/symfony/mercure/issues/121) in [symfony/mercure](https://github.com/symfony/mercure)
-2. 🗣 Commented on [#618](https://github.com/plankanban/planka/issues/618#issuecomment-2883371456) in [plankanban/planka](https://github.com/plankanban/planka)
-3. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2857424806) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
-4. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2855034282) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
-5. ❗ Opened issue [#310](https://github.com/recca0120/vscode-phpunit/issues/310) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+1. ❗ Opened issue [#1585](https://github.com/dunglas/frankenphp/issues/1585) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+2. ❗ Opened issue [#121](https://github.com/symfony/mercure/issues/121) in [symfony/mercure](https://github.com/symfony/mercure)
+3. 🗣 Commented on [#618](https://github.com/plankanban/planka/issues/618#issuecomment-2883371456) in [plankanban/planka](https://github.com/plankanban/planka)
+4. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2857424806) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+5. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2855034282) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
 <!--END_SECTION:activity-->
