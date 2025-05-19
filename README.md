@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2890814545) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-2. ❗ Opened issue [#1585](https://github.com/dunglas/frankenphp/issues/1585) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-3. ❗ Opened issue [#121](https://github.com/symfony/mercure/issues/121) in [symfony/mercure](https://github.com/symfony/mercure)
-4. 🗣 Commented on [#618](https://github.com/plankanban/planka/issues/618#issuecomment-2883371456) in [plankanban/planka](https://github.com/plankanban/planka)
-5. 🗣 Commented on [#310](https://github.com/recca0120/vscode-phpunit/issues/310#issuecomment-2857424806) in [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit)
+1. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2891017414) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+2. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2890814545) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+3. ❗ Opened issue [#1585](https://github.com/dunglas/frankenphp/issues/1585) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+4. ❗ Opened issue [#121](https://github.com/symfony/mercure/issues/121) in [symfony/mercure](https://github.com/symfony/mercure)
+5. 🗣 Commented on [#618](https://github.com/plankanban/planka/issues/618#issuecomment-2883371456) in [plankanban/planka](https://github.com/plankanban/planka)
 <!--END_SECTION:activity-->
