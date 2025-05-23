@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-2. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2891688319) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-3. 🔒 Closed issue [#1585](https://github.com/dunglas/frankenphp/issues/1585) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-4. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2891017414) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-5. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2890814545) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+1. 🗣 Commented on [#17796](https://github.com/tailwindlabs/tailwindcss/issues/17796#issuecomment-2902829405) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+2. ❗ Opened issue [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+3. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2891688319) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+4. 🔒 Closed issue [#1585](https://github.com/dunglas/frankenphp/issues/1585) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+5. 🗣 Commented on [#1585](https://github.com/dunglas/frankenphp/issues/1585#issuecomment-2891017414) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
 <!--END_SECTION:activity-->
