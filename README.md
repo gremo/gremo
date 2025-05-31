@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54377](https://github.com/symfony/symfony/issues/54377#issuecomment-2913277381) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-2909074800) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🗣 Commented on [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118#issuecomment-2904149869) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-4. 🗣 Commented on [#17796](https://github.com/tailwindlabs/tailwindcss/issues/17796#issuecomment-2902829405) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-5. ❗ Opened issue [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+1. 🗣 Commented on [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118#issuecomment-2922761456) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+2. 🔒 Closed issue [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+3. 🗣 Commented on [#54377](https://github.com/symfony/symfony/issues/54377#issuecomment-2913277381) in [symfony/symfony](https://github.com/symfony/symfony)
+4. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-2909074800) in [microsoft/WSL](https://github.com/microsoft/WSL)
+5. 🗣 Commented on [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118#issuecomment-2904149869) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 <!--END_SECTION:activity-->
