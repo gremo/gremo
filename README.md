@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#649](https://github.com/plankanban/planka/issues/649#issuecomment-2959588584) in [plankanban/planka](https://github.com/plankanban/planka)
-2. ❗ Opened issue [#4572](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/4572) in [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-3. 🗣 Commented on [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118#issuecomment-2922761456) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-4. 🔒 Closed issue [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-5. 🗣 Commented on [#54377](https://github.com/symfony/symfony/issues/54377#issuecomment-2913277381) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#1316](https://github.com/alexjustesen/speedtest-tracker/issues/1316#issuecomment-2960841693) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+2. 🗣 Commented on [#649](https://github.com/plankanban/planka/issues/649#issuecomment-2959588584) in [plankanban/planka](https://github.com/plankanban/planka)
+3. ❗ Opened issue [#4572](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/4572) in [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+4. 🗣 Commented on [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118#issuecomment-2922761456) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+5. 🔒 Closed issue [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 <!--END_SECTION:activity-->
