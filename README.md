@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/gremo/email-obfuscator/pull/3#issuecomment-2985734695) in [gremo/email-obfuscator](https://github.com/gremo/email-obfuscator)
-2. 🗣 Commented on [#889](https://github.com/gremo/nest-winston/issues/889#issuecomment-2985726172) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
-3. ❗ Opened issue [#13165](https://github.com/phpstan/phpstan/issues/13165) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
-4. ❗ Opened issue [#870](https://github.com/DEVSENSE/phptools-docs/issues/870) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-5. ❗ Opened issue [#251456](https://github.com/microsoft/vscode/issues/251456) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#11624](https://github.com/doctrine/orm/issues/11624#issuecomment-2985820909) in [doctrine/orm](https://github.com/doctrine/orm)
+2. 🗣 Commented on [#3](https://github.com/gremo/email-obfuscator/pull/3#issuecomment-2985734695) in [gremo/email-obfuscator](https://github.com/gremo/email-obfuscator)
+3. 🗣 Commented on [#889](https://github.com/gremo/nest-winston/issues/889#issuecomment-2985726172) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+4. ❗ Opened issue [#13165](https://github.com/phpstan/phpstan/issues/13165) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
+5. ❗ Opened issue [#870](https://github.com/DEVSENSE/phptools-docs/issues/870) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 <!--END_SECTION:activity-->
