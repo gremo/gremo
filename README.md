@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13165](https://github.com/phpstan/phpstan/issues/13165) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
-2. ❗ Opened issue [#870](https://github.com/DEVSENSE/phptools-docs/issues/870) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-3. ❗ Opened issue [#251456](https://github.com/microsoft/vscode/issues/251456) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#1316](https://github.com/alexjustesen/speedtest-tracker/issues/1316#issuecomment-2960841693) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
-5. 🗣 Commented on [#649](https://github.com/plankanban/planka/issues/649#issuecomment-2959588584) in [plankanban/planka](https://github.com/plankanban/planka)
+1. 🗣 Commented on [#3](https://github.com/gremo/email-obfuscator/pull/3#issuecomment-2985734695) in [gremo/email-obfuscator](https://github.com/gremo/email-obfuscator)
+2. 🗣 Commented on [#889](https://github.com/gremo/nest-winston/issues/889#issuecomment-2985726172) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+3. ❗ Opened issue [#13165](https://github.com/phpstan/phpstan/issues/13165) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
+4. ❗ Opened issue [#870](https://github.com/DEVSENSE/phptools-docs/issues/870) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+5. ❗ Opened issue [#251456](https://github.com/microsoft/vscode/issues/251456) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
