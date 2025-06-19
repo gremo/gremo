@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#251456](https://github.com/microsoft/vscode/issues/251456) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#1316](https://github.com/alexjustesen/speedtest-tracker/issues/1316#issuecomment-2960841693) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
-3. 🗣 Commented on [#649](https://github.com/plankanban/planka/issues/649#issuecomment-2959588584) in [plankanban/planka](https://github.com/plankanban/planka)
-4. ❗ Opened issue [#4572](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/4572) in [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-5. 🗣 Commented on [#18118](https://github.com/tailwindlabs/tailwindcss/issues/18118#issuecomment-2922761456) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+1. ❗ Opened issue [#13165](https://github.com/phpstan/phpstan/issues/13165) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
+2. ❗ Opened issue [#870](https://github.com/DEVSENSE/phptools-docs/issues/870) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+3. ❗ Opened issue [#251456](https://github.com/microsoft/vscode/issues/251456) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#1316](https://github.com/alexjustesen/speedtest-tracker/issues/1316#issuecomment-2960841693) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+5. 🗣 Commented on [#649](https://github.com/plankanban/planka/issues/649#issuecomment-2959588584) in [plankanban/planka](https://github.com/plankanban/planka)
 <!--END_SECTION:activity-->
