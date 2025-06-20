@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#870](https://github.com/DEVSENSE/phptools-docs/issues/870#issuecomment-2988159694) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-2. ❗ Opened issue [#132](https://github.com/khmyznikov/pwa-install/issues/132) in [khmyznikov/pwa-install](https://github.com/khmyznikov/pwa-install)
-3. 🗣 Commented on [#11624](https://github.com/doctrine/orm/issues/11624#issuecomment-2985820909) in [doctrine/orm](https://github.com/doctrine/orm)
-4. 🗣 Commented on [#3](https://github.com/gremo/email-obfuscator/pull/3#issuecomment-2985734695) in [gremo/email-obfuscator](https://github.com/gremo/email-obfuscator)
-5. 🗣 Commented on [#889](https://github.com/gremo/nest-winston/issues/889#issuecomment-2985726172) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2988899835) in [symfony/ux](https://github.com/symfony/ux)
+2. 🔒 Closed issue [#412](https://github.com/craue/CraueFormFlowBundle/issues/412) in [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle)
+3. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2988893903) in [symfony/ux](https://github.com/symfony/ux)
+4. 🔒 Closed issue [#2586](https://github.com/symfony/ux/issues/2586) in [symfony/ux](https://github.com/symfony/ux)
+5. 🔒 Closed issue [#223](https://github.com/mcuadros/ofelia/issues/223) in [mcuadros/ofelia](https://github.com/mcuadros/ofelia)
 <!--END_SECTION:activity-->
