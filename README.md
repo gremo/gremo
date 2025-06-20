@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2988899835) in [symfony/ux](https://github.com/symfony/ux)
-2. 🔒 Closed issue [#412](https://github.com/craue/CraueFormFlowBundle/issues/412) in [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle)
-3. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2988893903) in [symfony/ux](https://github.com/symfony/ux)
-4. 🔒 Closed issue [#2586](https://github.com/symfony/ux/issues/2586) in [symfony/ux](https://github.com/symfony/ux)
-5. 🔒 Closed issue [#223](https://github.com/mcuadros/ofelia/issues/223) in [mcuadros/ofelia](https://github.com/mcuadros/ofelia)
+1. 🗣 Commented on [#11624](https://github.com/doctrine/orm/issues/11624#issuecomment-2988996789) in [doctrine/orm](https://github.com/doctrine/orm)
+2. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2988899835) in [symfony/ux](https://github.com/symfony/ux)
+3. 🔒 Closed issue [#412](https://github.com/craue/CraueFormFlowBundle/issues/412) in [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle)
+4. 🗣 Commented on [#2586](https://github.com/symfony/ux/issues/2586#issuecomment-2988893903) in [symfony/ux](https://github.com/symfony/ux)
+5. 🔒 Closed issue [#2586](https://github.com/symfony/ux/issues/2586) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
