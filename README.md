@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/usernamehw/vscode-commands/issues/63#issuecomment-2994102656) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
-2. 🔒 Closed issue [#63](https://github.com/usernamehw/vscode-commands/issues/63) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
-3. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2989068277) in [symfony/ux](https://github.com/symfony/ux)
-4. 🗣 Commented on [#11624](https://github.com/doctrine/orm/issues/11624#issuecomment-2988996789) in [doctrine/orm](https://github.com/doctrine/orm)
-5. 🗣 Commented on [#1589](https://github.com/symfony/ux/issues/1589#issuecomment-2988899835) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#11043](https://github.com/microsoft/vscode-remote-release/issues/11043) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+2. 🗣 Commented on [#63](https://github.com/usernamehw/vscode-commands/issues/63#issuecomment-2994102656) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
+3. 🔒 Closed issue [#63](https://github.com/usernamehw/vscode-commands/issues/63) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
+4. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2989068277) in [symfony/ux](https://github.com/symfony/ux)
+5. 🗣 Commented on [#11624](https://github.com/doctrine/orm/issues/11624#issuecomment-2988996789) in [doctrine/orm](https://github.com/doctrine/orm)
 <!--END_SECTION:activity-->
