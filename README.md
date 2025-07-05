@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11043](https://github.com/microsoft/vscode-remote-release/issues/11043#issuecomment-3020261586) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-2. ❗ Opened issue [#11043](https://github.com/microsoft/vscode-remote-release/issues/11043) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-3. 🗣 Commented on [#63](https://github.com/usernamehw/vscode-commands/issues/63#issuecomment-2994102656) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
-4. 🔒 Closed issue [#63](https://github.com/usernamehw/vscode-commands/issues/63) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
-5. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-2989068277) in [symfony/ux](https://github.com/symfony/ux)
+1. 🗣 Commented on [#132](https://github.com/khmyznikov/pwa-install/issues/132#issuecomment-3038750015) in [khmyznikov/pwa-install](https://github.com/khmyznikov/pwa-install)
+2. 🗣 Commented on [#11043](https://github.com/microsoft/vscode-remote-release/issues/11043#issuecomment-3020261586) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+3. ❗ Opened issue [#11043](https://github.com/microsoft/vscode-remote-release/issues/11043) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+4. 🗣 Commented on [#63](https://github.com/usernamehw/vscode-commands/issues/63#issuecomment-2994102656) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
+5. 🔒 Closed issue [#63](https://github.com/usernamehw/vscode-commands/issues/63) in [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands)
 <!--END_SECTION:activity-->
