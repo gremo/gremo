@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-3281163555) in [microsoft/WSL](https://github.com/microsoft/WSL)
-2. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-3280438376) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🗣 Commented on [#7334](https://github.com/api-platform/core/issues/7334#issuecomment-3219148636) in [api-platform/core](https://github.com/api-platform/core)
-4. 🗣 Commented on [#7335](https://github.com/api-platform/core/issues/7335#issuecomment-3219131588) in [api-platform/core](https://github.com/api-platform/core)
-5. 🗣 Commented on [#7335](https://github.com/api-platform/core/issues/7335#issuecomment-3219122861) in [api-platform/core](https://github.com/api-platform/core)
+1. 🗣 Commented on [#27933](https://github.com/symfony/symfony/issues/27933#issuecomment-3302256176) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-3281163555) in [microsoft/WSL](https://github.com/microsoft/WSL)
+3. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-3280438376) in [microsoft/WSL](https://github.com/microsoft/WSL)
+4. 🗣 Commented on [#7334](https://github.com/api-platform/core/issues/7334#issuecomment-3219148636) in [api-platform/core](https://github.com/api-platform/core)
+5. 🗣 Commented on [#7335](https://github.com/api-platform/core/issues/7335#issuecomment-3219131588) in [api-platform/core](https://github.com/api-platform/core)
 <!--END_SECTION:activity-->
