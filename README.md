@@ -21,8 +21,8 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27933](https://github.com/symfony/symfony/issues/27933#issuecomment-3302256176) in [symfony/symfony](https://github.com/symfony/symfony)
-2.  Labeled issue [#61759](https://github.com/symfony/symfony/issues/61759) in [symfony/symfony](https://github.com/symfony/symfony)
+1. ❗ Opened issue [#7197](https://github.com/EasyCorp/EasyAdminBundle/issues/7197) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+2. ❗ Opened issue [#941](https://github.com/DEVSENSE/phptools-docs/issues/941) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 3. ❗ Opened issue [#61759](https://github.com/symfony/symfony/issues/61759) in [symfony/symfony](https://github.com/symfony/symfony)
 4. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-3281163555) in [microsoft/WSL](https://github.com/microsoft/WSL)
 5. 🗣 Commented on [#7456](https://github.com/microsoft/WSL/issues/7456#issuecomment-3280438376) in [microsoft/WSL](https://github.com/microsoft/WSL)
