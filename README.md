@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7245](https://github.com/EasyCorp/EasyAdminBundle/pull/7245#issuecomment-3554212335) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-2. 🗣 Commented on [#7197](https://github.com/EasyCorp/EasyAdminBundle/issues/7197#issuecomment-3544273975) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-3. 💪 Opened PR [#7251](undefined) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-4. 🗣 Commented on [#7244](https://github.com/EasyCorp/EasyAdminBundle/issues/7244#issuecomment-3544224827) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. 💪 Opened PR [#7250](undefined) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+1. 💪 Opened PR [#7253](undefined) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+2. 🗣 Commented on [#7251](https://github.com/EasyCorp/EasyAdminBundle/pull/7251#issuecomment-3554425543) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+3. 🗣 Commented on [#7245](https://github.com/EasyCorp/EasyAdminBundle/pull/7245#issuecomment-3554212335) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+4. 🗣 Commented on [#7197](https://github.com/EasyCorp/EasyAdminBundle/issues/7197#issuecomment-3544273975) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+5. 💪 Opened PR [#7251](undefined) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
