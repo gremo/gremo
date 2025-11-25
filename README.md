@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1477](https://github.com/symfony/recipes/pull/1477#issuecomment-3574414146) in [symfony/recipes](https://github.com/symfony/recipes)
-2. ❗ Opened issue [#949](https://github.com/DEVSENSE/phptools-docs/issues/949) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-3. 🗣 Commented on [#1922](https://github.com/php/frankenphp/issues/1922#issuecomment-3562732022) in [php/frankenphp](https://github.com/php/frankenphp)
-4. 🗣 Commented on [#1922](https://github.com/php/frankenphp/issues/1922#issuecomment-3559192609) in [php/frankenphp](https://github.com/php/frankenphp)
-5. 🗣 Commented on [#1922](https://github.com/php/frankenphp/issues/1922#issuecomment-3559140516) in [php/frankenphp](https://github.com/php/frankenphp)
+1. 🗣 Commented on [#1477](https://github.com/symfony/recipes/pull/1477#issuecomment-3574547693) in [symfony/recipes](https://github.com/symfony/recipes)
+2. 🗣 Commented on [#1477](https://github.com/symfony/recipes/pull/1477#issuecomment-3574414146) in [symfony/recipes](https://github.com/symfony/recipes)
+3. ❗ Opened issue [#949](https://github.com/DEVSENSE/phptools-docs/issues/949) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+4. 🗣 Commented on [#1922](https://github.com/php/frankenphp/issues/1922#issuecomment-3562732022) in [php/frankenphp](https://github.com/php/frankenphp)
+5. 🗣 Commented on [#1922](https://github.com/php/frankenphp/issues/1922#issuecomment-3559192609) in [php/frankenphp](https://github.com/php/frankenphp)
 <!--END_SECTION:activity-->
