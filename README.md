@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6772](https://github.com/EasyCorp/EasyAdminBundle/pull/6772#issuecomment-3580357471) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-2. ❗ Opened issue [#7262](https://github.com/EasyCorp/EasyAdminBundle/issues/7262) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-3. 🗣 Commented on [#2034](https://github.com/php/frankenphp/issues/2034#issuecomment-3577358669) in [php/frankenphp](https://github.com/php/frankenphp)
-4. 🗣 Commented on [#949](https://github.com/DEVSENSE/phptools-docs/issues/949#issuecomment-3576057764) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-5. 🗣 Commented on [#949](https://github.com/DEVSENSE/phptools-docs/issues/949#issuecomment-3576007196) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+1. ❗ Opened issue [#951](https://github.com/DEVSENSE/phptools-docs/issues/951) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+2. ❗ Opened issue [#950](https://github.com/DEVSENSE/phptools-docs/issues/950) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+3. 🗣 Commented on [#6772](https://github.com/EasyCorp/EasyAdminBundle/pull/6772#issuecomment-3580357471) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+4. ❗ Opened issue [#7262](https://github.com/EasyCorp/EasyAdminBundle/issues/7262) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+5. 🗣 Commented on [#2034](https://github.com/php/frankenphp/issues/2034#issuecomment-3577358669) in [php/frankenphp](https://github.com/php/frankenphp)
 <!--END_SECTION:activity-->
