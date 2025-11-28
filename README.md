@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/symfony/mercure-bundle/issues/109#issuecomment-3583703622) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
-2. ❗ Opened issue [#951](https://github.com/DEVSENSE/phptools-docs/issues/951) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-3. ❗ Opened issue [#950](https://github.com/DEVSENSE/phptools-docs/issues/950) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-4. 🗣 Commented on [#6772](https://github.com/EasyCorp/EasyAdminBundle/pull/6772#issuecomment-3580357471) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. ❗ Opened issue [#7262](https://github.com/EasyCorp/EasyAdminBundle/issues/7262) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+1. ❗ Opened issue [#32](https://github.com/Minishlink/web-push-bundle/issues/32) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+2. 🗣 Commented on [#109](https://github.com/symfony/mercure-bundle/issues/109#issuecomment-3583703622) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
+3. ❗ Opened issue [#951](https://github.com/DEVSENSE/phptools-docs/issues/951) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+4. ❗ Opened issue [#950](https://github.com/DEVSENSE/phptools-docs/issues/950) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+5. 🗣 Commented on [#6772](https://github.com/EasyCorp/EasyAdminBundle/pull/6772#issuecomment-3580357471) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
