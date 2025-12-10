@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#432](https://github.com/web-push-libs/web-push-php/issues/432#issuecomment-3634675823) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
-2. 🗣 Commented on [#2034](https://github.com/php/frankenphp/issues/2034#issuecomment-3626301980) in [php/frankenphp](https://github.com/php/frankenphp)
-3. ❗ Opened issue [#958](https://github.com/DEVSENSE/phptools-docs/issues/958) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-4. ❗ Opened issue [#955](https://github.com/DEVSENSE/phptools-docs/issues/955) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
-5. ❗ Opened issue [#32](https://github.com/Minishlink/web-push-bundle/issues/32) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+1. 🗣 Commented on [#51553](https://github.com/symfony/symfony/pull/51553#issuecomment-3634824039) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 🗣 Commented on [#432](https://github.com/web-push-libs/web-push-php/issues/432#issuecomment-3634675823) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
+3. 🗣 Commented on [#2034](https://github.com/php/frankenphp/issues/2034#issuecomment-3626301980) in [php/frankenphp](https://github.com/php/frankenphp)
+4. ❗ Opened issue [#958](https://github.com/DEVSENSE/phptools-docs/issues/958) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+5. ❗ Opened issue [#955](https://github.com/DEVSENSE/phptools-docs/issues/955) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 <!--END_SECTION:activity-->
