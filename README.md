@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#62727](https://github.com/symfony/symfony/issues/62727) in [symfony/symfony](https://github.com/symfony/symfony)
-2. ❗ Opened issue [#62727](https://github.com/symfony/symfony/issues/62727) in [symfony/symfony](https://github.com/symfony/symfony)
-3. 🗣 Commented on [#51553](https://github.com/symfony/symfony/pull/51553#issuecomment-3634824039) in [symfony/symfony](https://github.com/symfony/symfony)
-4. 🗣 Commented on [#432](https://github.com/web-push-libs/web-push-php/issues/432#issuecomment-3634675823) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
-5. 🗣 Commented on [#2034](https://github.com/php/frankenphp/issues/2034#issuecomment-3626301980) in [php/frankenphp](https://github.com/php/frankenphp)
+1. 🔒 Closed issue [#7246](https://github.com/EasyCorp/EasyAdminBundle/issues/7246) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+2.  Labeled issue [#62727](https://github.com/symfony/symfony/issues/62727) in [symfony/symfony](https://github.com/symfony/symfony)
+3. ❗ Opened issue [#62727](https://github.com/symfony/symfony/issues/62727) in [symfony/symfony](https://github.com/symfony/symfony)
+4. 🗣 Commented on [#51553](https://github.com/symfony/symfony/pull/51553#issuecomment-3634824039) in [symfony/symfony](https://github.com/symfony/symfony)
+5. 🗣 Commented on [#432](https://github.com/web-push-libs/web-push-php/issues/432#issuecomment-3634675823) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
 <!--END_SECTION:activity-->
