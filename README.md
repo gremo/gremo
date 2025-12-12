@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#432](https://github.com/web-push-libs/web-push-php/issues/432#issuecomment-3645563861) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
-2. 💪 Opened PR [#33](undefined) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
-3. 🗣 Commented on [#7248](https://github.com/EasyCorp/EasyAdminBundle/issues/7248#issuecomment-3645522297) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-4. 🔒 Closed issue [#7248](https://github.com/EasyCorp/EasyAdminBundle/issues/7248) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-5. 🔒 Closed issue [#7249](https://github.com/EasyCorp/EasyAdminBundle/issues/7249) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+1. ❌ Merged PR [#33](undefined) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+2. 💪 Opened PR [#7294](undefined) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+3. 🗣 Commented on [#432](https://github.com/web-push-libs/web-push-php/issues/432#issuecomment-3645563861) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
+4. 💪 Opened PR [#33](undefined) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+5. 🗣 Commented on [#7248](https://github.com/EasyCorp/EasyAdminBundle/issues/7248#issuecomment-3645522297) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
