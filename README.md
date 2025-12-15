@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
-2. ❌ Merged PR [#33](undefined) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
-3. 💪 Opened PR [#7294](undefined) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
-4. 🗣 Commented on [#432](https://github.com/web-push-libs/web-push-php/issues/432#issuecomment-3645563861) in [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php)
-5. 💪 Opened PR [#33](undefined) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+1. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655092155) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
+2. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655080179) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
+3. ❗ Opened issue [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
+4. ❌ Merged PR [#33](undefined) in [Minishlink/web-push-bundle](https://github.com/Minishlink/web-push-bundle)
+5. 💪 Opened PR [#7294](undefined) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 <!--END_SECTION:activity-->
