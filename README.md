@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
-2. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655207350) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
-3. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655092155) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
-4. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655080179) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
-5. ❗ Opened issue [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
+1. ❗ Opened issue [#19458](https://github.com/tailwindlabs/tailwindcss/issues/19458) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+2. 🔒 Closed issue [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
+3. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655207350) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
+4. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655092155) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
+5. 🗣 Commented on [#37](https://github.com/shipmonk-rnd/doctrine-entity-preloader/issues/37#issuecomment-3655080179) in [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)
 <!--END_SECTION:activity-->
