@@ -21,7 +21,7 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1544](https://github.com/symfony/ux/issues/1544#issuecomment-4079078914) in [symfony/ux](https://github.com/symfony/ux)
+1. ❗ Opened issue [#120](https://github.com/symfony/mercure-bundle/issues/120) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
 2. ℹ️ Labeled issue [#63131](https://github.com/symfony/symfony/issues/63131) in [symfony/symfony](https://github.com/symfony/symfony)
 3. ❗ Opened issue [#63131](https://github.com/symfony/symfony/issues/63131) in [symfony/symfony](https://github.com/symfony/symfony)
 4. 🗣 Commented on [#62727](https://github.com/symfony/symfony/issues/62727#issuecomment-3767436224) in [symfony/symfony](https://github.com/symfony/symfony)
