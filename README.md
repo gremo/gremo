@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/symfony/mercure-bundle/issues/111#issuecomment-4544337448) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
-2. ❗ Opened issue [#120](https://github.com/symfony/mercure-bundle/issues/120) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
-3. ❗ Opened issue [#63131](https://github.com/symfony/symfony/issues/63131) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#111](https://github.com/symfony/mercure-bundle/issues/111#issuecomment-4545589211) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
+2. 🗣 Commented on [#111](https://github.com/symfony/mercure-bundle/issues/111#issuecomment-4544337448) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
+3. ❗ Opened issue [#120](https://github.com/symfony/mercure-bundle/issues/120) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
 4. 🗣 Commented on [#62727](https://github.com/symfony/symfony/issues/62727#issuecomment-3767436224) in [symfony/symfony](https://github.com/symfony/symfony)
 5. 🗣 Commented on [#62727](https://github.com/symfony/symfony/issues/62727#issuecomment-3767377853) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
