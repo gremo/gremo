@@ -21,7 +21,7 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/gremo/frankenphp-symfony/pull/1) in [gremo/frankenphp-symfony](https://github.com/gremo/frankenphp-symfony)
+1. ❗ Opened issue [#1258](https://github.com/redhat-developer/vscode-yaml/issues/1258) in [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)
 2. 🗣 Commented on [#928](https://github.com/Gruntfuggly/todo-tree/issues/928#issuecomment-4626474381) in [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree)
 3. ❗ Opened issue [#7634](https://github.com/EasyCorp/EasyAdminBundle/issues/7634) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
 4. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-4553158105) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
