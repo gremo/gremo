@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/SymfonyCasts/tailwind-bundle/issues/131#issuecomment-4826005187) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
-2. 🔒 Closed issue [#131](https://github.com/SymfonyCasts/tailwind-bundle/issues/131) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
-3. 🔒 Closed issue [#64748](https://github.com/symfony/symfony/issues/64748) in [symfony/symfony](https://github.com/symfony/symfony)
-4. 🗣 Commented on [#64748](https://github.com/symfony/symfony/issues/64748#issuecomment-4826003407) in [symfony/symfony](https://github.com/symfony/symfony)
-5. ℹ️ Labeled issue [#64748](https://github.com/symfony/symfony/issues/64748) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#42](https://github.com/sensiolabs/minify-bundle/issues/42#issuecomment-4826123995) in [sensiolabs/minify-bundle](https://github.com/sensiolabs/minify-bundle)
+2. 🗣 Commented on [#131](https://github.com/SymfonyCasts/tailwind-bundle/issues/131#issuecomment-4826005187) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
+3. 🔒 Closed issue [#131](https://github.com/SymfonyCasts/tailwind-bundle/issues/131) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
+4. 🔒 Closed issue [#64748](https://github.com/symfony/symfony/issues/64748) in [symfony/symfony](https://github.com/symfony/symfony)
+5. 🗣 Commented on [#64748](https://github.com/symfony/symfony/issues/64748#issuecomment-4826003407) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
