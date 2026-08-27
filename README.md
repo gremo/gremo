@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62727](https://github.com/symfony/symfony/issues/62727#issuecomment-5411720762) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-5411447171) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
-3. 🗣 Commented on [#54377](https://github.com/symfony/symfony/issues/54377#issuecomment-5392224498) in [symfony/symfony](https://github.com/symfony/symfony)
-4. 🔒 Closed issue [#131](https://github.com/SymfonyCasts/tailwind-bundle/issues/131) in [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)
-5. 🔒 Closed issue [#64748](https://github.com/symfony/symfony/issues/64748) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#1076](https://github.com/DEVSENSE/phptools-docs/issues/1076#issuecomment-5439612112) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+2. 🗣 Commented on [#1076](https://github.com/DEVSENSE/phptools-docs/issues/1076#issuecomment-5439509070) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+3. 🗣 Commented on [#1076](https://github.com/DEVSENSE/phptools-docs/issues/1076#issuecomment-5439367410) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+4. 🗣 Commented on [#1076](https://github.com/DEVSENSE/phptools-docs/issues/1076#issuecomment-5439318899) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+5. ❗ Opened issue [#1076](https://github.com/DEVSENSE/phptools-docs/issues/1076) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 <!--END_SECTION:activity-->
