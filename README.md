@@ -21,7 +21,7 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1076](https://github.com/DEVSENSE/phptools-docs/issues/1076#issuecomment-5784565401) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
+1. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-6496452070) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
 2. 🗣 Commented on [#1076](https://github.com/DEVSENSE/phptools-docs/issues/1076#issuecomment-5773831047) in [DEVSENSE/phptools-docs](https://github.com/DEVSENSE/phptools-docs)
 3. 🗣 Commented on [#936](https://github.com/gremo/nest-winston/pull/936#issuecomment-5667746506) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 4. 🔒 Closed issue [#935](https://github.com/gremo/nest-winston/issues/935) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
