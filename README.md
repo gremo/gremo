@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-6519285897) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
-2. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-6496452070) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
-3. 🗣 Commented on [#936](https://github.com/gremo/nest-winston/pull/936#issuecomment-5667746506) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
+1. ❗ Opened issue [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+2. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-6519285897) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
+3. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-6496452070) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
 4. 🔒 Closed issue [#935](https://github.com/gremo/nest-winston/issues/935) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 5. 🗣 Commented on [#936](https://github.com/gremo/nest-winston/pull/936#issuecomment-5584246503) in [gremo/nest-winston](https://github.com/gremo/nest-winston)
 <!--END_SECTION:activity-->
