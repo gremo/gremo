@@ -21,9 +21,9 @@ I'm a web developer from Italy 🍕 with over 10 years of experience. Programmin
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958#issuecomment-6626881616) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-2. 🗣 Commented on [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958#issuecomment-6617519227) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-3. 🗣 Commented on [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958#issuecomment-6616417849) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-4. ❗ Opened issue [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-5. 🗣 Commented on [#120](https://github.com/symfony/mercure-bundle/issues/120#issuecomment-6519285897) in [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle)
+1. ℹ️ Labeled issue [#34777](https://github.com/open-webui/open-webui/issues/34777) in [open-webui/open-webui](https://github.com/open-webui/open-webui)
+2. ❗ Opened issue [#34777](https://github.com/open-webui/open-webui/issues/34777) in [open-webui/open-webui](https://github.com/open-webui/open-webui)
+3. 🗣 Commented on [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958#issuecomment-6626881616) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+4. 🗣 Commented on [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958#issuecomment-6617519227) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+5. 🗣 Commented on [#6958](https://github.com/Mintplex-Labs/anything-llm/issues/6958#issuecomment-6616417849) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 <!--END_SECTION:activity-->
